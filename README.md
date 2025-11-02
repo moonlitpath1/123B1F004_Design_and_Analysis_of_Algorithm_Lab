@@ -2,8 +2,8 @@
 ---
 ### Author  
 
-#####Anushka Badhe  
-#####TY-A (123B1F004)
+##### Anushka Badhe  
+##### TY-A (123B1F004)
 ---
 
 This repository contains all assignments and corresponding output files for the Design and Analysis of Algorithms (DAA) Laboratory.
