@@ -1,8 +1,7 @@
 # Design and Analysis of Algorithms Lab
 ---
-##### Created by: 
-
-Anushka Badhe
+### Author  
+Anushka Badhe  
 TY-A (123B1F004)
 ---
 
