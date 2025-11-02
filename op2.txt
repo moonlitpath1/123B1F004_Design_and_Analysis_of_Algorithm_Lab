@@ -1,0 +1,67 @@
+=== Film Sorting Utility ===
+
+Choose sorting category:
+1) Rating
+2) Year Released
+3) Popularity Score
+4) Exit Program
+Enter option: 1
+
+--- Sorted by Rating (highest first) ---
+
+Title                              Score       Year        Trend       
+======================================================================
+The Infinite Horizon               9.1         2022        92.5       
+Iron Fortress                     8.7         2021        88.4       
+Silent Echo                       8.5         2023        91.0       
+Desert Sky                        7.9         2019        66.2       
+City Lights Reborn                7.6         2020        70.8       
+... only first 5 of 20 entries shown
+
+
+Choose sorting category:
+1) Rating
+2) Year Released
+3) Popularity Score
+4) Exit Program
+Enter option: 2
+
+--- Sorted by Release Year (newest first) ---
+
+Title                              Score       Year        Trend       
+======================================================================
+Silent Echo                       8.5         2023        91.0       
+The Infinite Horizon              9.1         2022        92.5       
+Iron Fortress                     8.7         2021        88.4       
+City Lights Reborn                7.6         2020        70.8       
+Desert Sky                        7.9         2019        66.2       
+... only first 5 of 20 entries shown
+
+
+Choose sorting category:
+1) Rating
+2) Year Released
+3) Popularity Score
+4) Exit Program
+Enter option: 3
+
+--- Sorted by Popularity Value ---
+
+Title                              Score       Year        Trend       
+======================================================================
+The Infinite Horizon              9.1         2022        92.5       
+Silent Echo                       8.5         2023        91.0       
+Iron Fortress                     8.7         2021        88.4       
+City Lights Reborn                7.6         2020        70.8       
+Desert Sky                        7.9         2019        66.2       
+... only first 5 of 20 entries shown
+
+
+Choose sorting category:
+1) Rating
+2) Year Released
+3) Popularity Score
+4) Exit Program
+Enter option: 4
+
+Program terminated. Goodbye.

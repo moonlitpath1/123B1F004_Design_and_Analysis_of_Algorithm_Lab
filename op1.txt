@@ -1,0 +1,32 @@
+>>> Current Transaction Log <<<
+
+Client          | Recorded Time               
+==================================================
+Ava             | Mon Oct 21 14:10:00 2024
+   Ben             | Sun Oct 20 10:23:20 2024
+   Clio            | Tue Oct 22 04:03:20 2024
+   Dax             | Sat Oct 19 06:36:40 2024
+   Faye            | Tue Oct 22 17:56:40 2024
+   --------------------------------------------------
+
+*** Sorted via Merge Algorithm ***
+Client          | Recorded Time               
+==================================================
+Dax             | Sat Oct 19 06:36:40 2024
+   Ben             | Sun Oct 20 10:23:20 2024
+   Ava             | Mon Oct 21 14:10:00 2024
+   Clio            | Tue Oct 22 04:03:20 2024
+   Faye            | Tue Oct 22 17:56:40 2024
+   --------------------------------------------------
+
+*** Sorted via Bubble Pass ***
+Client          | Recorded Time               
+==================================================
+Dax             | Sat Oct 19 06:36:40 2024
+   Ben             | Sun Oct 20 10:23:20 2024
+   Ava             | Mon Oct 21 14:10:00 2024
+   Clio            | Tue Oct 22 04:03:20 2024
+   Faye            | Tue Oct 22 17:56:40 2024
+   --------------------------------------------------
+
+Process completed.
