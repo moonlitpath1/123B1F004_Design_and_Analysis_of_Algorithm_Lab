@@ -72,7 +72,7 @@ public class Assignment_7 {
             boolean[][] usedRoom = new boolean[k][R];
 
             if (backtrack(0, k, color, roomAssigned, usedRoom)) {
-                System.out.println(GREEN + "\n✅ Schedule found with " + k + " time slots\n" + RESET);
+                System.out.println(GREEN + "\nSchedule found with " + k + " time slots\n" + RESET);
                 for (int i = 0; i < N; ++i) {
                     System.out.printf(
                         "Course %d  →  ⟦Slot %d⟧  ⟦Room %d⟧%n",
