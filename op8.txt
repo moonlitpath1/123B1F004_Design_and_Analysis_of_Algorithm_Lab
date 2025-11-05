@@ -1,0 +1,5 @@
+Schedule found with 3 time slots
+
+Course 0  →  ⟦Slot 1⟧  ⟦Room 2⟧
+Course 1  →  ⟦Slot 2⟧  ⟦Room 0⟧
+Course 2  →  ⟦Slot 1⟧  ⟦Room 1⟧
