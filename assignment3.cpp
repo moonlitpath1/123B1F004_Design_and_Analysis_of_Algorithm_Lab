@@ -27,7 +27,6 @@ supplies transported.
 #include <iomanip>
 using namespace std;
 
-// Learning to write professional, self-documenting C++ code
 struct Supply
 {
     string name;
