@@ -1,1001 +1,1001 @@
-title,rating,release_year,popularity
-The Shawshank Redemption 1,2,1980,318939
-The Godfather 1,9.2,1998,309991
-The Dark Knight 1,5.2,1998,120398
-Pulp Fiction 1,6.9,2020,862682
-The Lord of the Rings: The Return of the King 1,5.9,1982,47561
-Forrest Gump 1,6.2,2014,706735
-Inception 1,5.3,1980,906121
-Fight Club 1,8.3,1986,192100
-The Matrix 1,5.1,2007,585373
-Goodfellas 1,6,2021,481632
-The Empire Strikes Back 1,3.1,1993,386029
-Interstellar 1,8.2,2002,588647
-City of God 1,3.2,1990,150405
-Spirited Away 1,5,1989,931766
-Saving Private Ryan 1,6,2019,789166
-Parasite 1,6.3,2018,94890
-The Green Mile 1,9.8,1982,184166
-Se7en 1,1.8,2020,962626
-The Silence of the Lambs 1,2.3,1991,911445
-Avengers: Endgame 1,3.9,1983,203352
-Whiplash 1,5.8,1993,316956
-Gladiator 1,5.1,2006,15401
-The Prestige 1,6.6,2021,733937
-The Departed 1,3.4,2024,219095
-Joker 1,4.5,2024,651192
-The Lion King 1,9.4,1986,840169
-Alien 1,2,2018,843313
-WALL·E 1,2.3,1992,852099
-Oldboy 1,5.8,1991,109325
-Coco 1,2.1,2003,111024
-The Shining 1,8.9,2002,78323
-Braveheart 1,9.5,1992,623133
-Once Upon a Time in Hollywood 1,8.8,1987,149851
-Avengers: Infinity War 1,8.3,1993,599913
-Up 1,5.8,1987,997800
-A Beautiful Mind 1,3.9,1986,341398
-The Truman Show 1,7.2,2015,954713
-Inside Out 1,8.6,2002,467171
-The Pianist 1,4.9,2015,192225
-Terminator 2: Judgment Day 1,4,2006,842664
-Back to the Future 1,10,2004,77490
-Django Unchained 1,4.4,2013,546427
-The Wolf of Wall Street 1,7,1995,508689
-1917 1,3.1,2006,225123
-La La Land 1,1.5,1993,653700
-Blade Runner 2049 1,4.6,2007,90852
-The Big Short 1,5.8,2020,377741
-Logan 1,1.5,2019,440684
-Black Panther 1,9.4,2020,226147
-Knives Out 1,9.8,2016,772841
-The Shawshank Redemption 2,5.4,2010,733147
-The Godfather 2,8.6,1982,785193
-The Dark Knight 2,4.9,2011,354639
-Pulp Fiction 2,9.4,1998,169870
-The Lord of the Rings: The Return of the King 2,9.7,2013,950833
-Forrest Gump 2,2.1,2023,173519
-Inception 2,1.3,1981,68929
-Fight Club 2,5.4,2009,59105
-The Matrix 2,2.8,1991,223165
-Goodfellas 2,7.2,2020,66341
-The Empire Strikes Back 2,5.5,1989,854289
-Interstellar 2,1.7,2006,891565
-City of God 2,8.9,1986,389467
-Spirited Away 2,9.3,1987,524457
-Saving Private Ryan 2,2.4,1985,330298
-Parasite 2,7,2007,230485
-The Green Mile 2,8.2,1995,339689
-Se7en 2,5.3,1993,905154
-The Silence of the Lambs 2,6.6,2006,665232
-Avengers: Endgame 2,5.2,2017,855623
-Whiplash 2,2,2021,368070
-Gladiator 2,5.5,1984,419479
-The Prestige 2,1.5,2013,679296
-The Departed 2,2.4,1986,590132
-Joker 2,5.3,2000,854218
-The Lion King 2,7.2,2023,266922
-Alien 2,9.2,2005,715512
-WALL·E 2,1,2006,964207
-Oldboy 2,4.5,2006,280624
-Coco 2,1.3,2003,186606
-The Shining 2,7.5,2004,401665
-Braveheart 2,8.1,2005,677770
-Once Upon a Time in Hollywood 2,5.7,2005,875431
-Avengers: Infinity War 2,2,2012,680169
-Up 2,5.3,2022,624612
-A Beautiful Mind 2,6.9,2022,319895
-The Truman Show 2,4.3,2003,145599
-Inside Out 2,1.1,2003,268033
-The Pianist 2,4.5,2001,228214
-Terminator 2: Judgment Day 2,4.7,1996,462232
-Back to the Future 2,8.1,2018,555802
-Django Unchained 2,5.5,1992,249898
-The Wolf of Wall Street 2,2.9,1984,125314
-1917 2,7.8,1982,940126
-La La Land 2,6.1,2004,97681
-Blade Runner 2049 2,8.2,2013,783626
-The Big Short 2,1.6,1984,580081
-Logan 2,4.1,2015,579295
-Black Panther 2,4.4,2000,79587
-Knives Out 2,4,1993,611976
-The Shawshank Redemption 3,6.7,2002,558411
-The Godfather 3,1.5,2002,837358
-The Dark Knight 3,6.1,2004,994798
-Pulp Fiction 3,2.4,2022,367748
-The Lord of the Rings: The Return of the King 3,4.6,2009,785248
-Forrest Gump 3,6.1,2015,441830
-Inception 3,6.4,1998,21873
-Fight Club 3,8,2004,63735
-The Matrix 3,8.6,1983,307843
-Goodfellas 3,6.4,1999,753780
-The Empire Strikes Back 3,7.7,2023,561150
-Interstellar 3,9.8,1989,398516
-City of God 3,8.4,1980,424996
-Spirited Away 3,9.6,2024,345541
-Saving Private Ryan 3,2.6,2009,246603
-Parasite 3,4.5,2007,140770
-The Green Mile 3,6.8,1992,575473
-Se7en 3,2.2,2022,266443
-The Silence of the Lambs 3,4.6,1993,454512
-Avengers: Endgame 3,2.4,2007,138482
-Whiplash 3,1.5,1998,423634
-Gladiator 3,8.8,1989,423624
-The Prestige 3,7.7,1982,307168
-The Departed 3,2.6,2023,737119
-Joker 3,1.5,2000,848478
-The Lion King 3,2.5,1981,643637
-Alien 3,9.9,1995,323131
-WALL·E 3,3.2,1994,957142
-Oldboy 3,2.8,2011,646657
-Coco 3,1.5,2003,868966
-The Shining 3,4.4,1986,358873
-Braveheart 3,2.2,1981,351916
-Once Upon a Time in Hollywood 3,1.3,2020,717596
-Avengers: Infinity War 3,4.4,1997,331221
-Up 3,5.3,2015,27529
-A Beautiful Mind 3,7,2005,842365
-The Truman Show 3,9,2020,482902
-Inside Out 3,8.3,2004,238634
-The Pianist 3,4.4,1987,70523
-Terminator 2: Judgment Day 3,8,2009,601213
-Back to the Future 3,7.2,2001,731920
-Django Unchained 3,3.8,2012,750416
-The Wolf of Wall Street 3,3.7,1994,745754
-1917 3,3.8,2008,959501
-La La Land 3,4.1,1989,724952
-Blade Runner 2049 3,9.9,2015,428368
-The Big Short 3,7.8,1983,982447
-Logan 3,9.7,2008,673522
-Black Panther 3,2.6,1991,718063
-Knives Out 3,9.8,1998,522467
-The Shawshank Redemption 4,5,1991,120629
-The Godfather 4,1,2019,299655
-The Dark Knight 4,9.4,1994,879059
-Pulp Fiction 4,5.6,2020,897463
-The Lord of the Rings: The Return of the King 4,2.3,2024,237402
-Forrest Gump 4,6.7,2019,360540
-Inception 4,4.9,2002,667380
-Fight Club 4,9.9,2013,523260
-The Matrix 4,9.1,1980,365233
-Goodfellas 4,7.4,2019,556263
-The Empire Strikes Back 4,8.7,1991,754596
-Interstellar 4,5.9,1992,76963
-City of God 4,9,2014,811344
-Spirited Away 4,8.2,1991,395342
-Saving Private Ryan 4,1.7,1988,669431
-Parasite 4,2.1,2001,364504
-The Green Mile 4,3.1,1991,89096
-Se7en 4,9.8,1982,268702
-The Silence of the Lambs 4,4.7,2021,196023
-Avengers: Endgame 4,6.7,1989,769626
-Whiplash 4,3.8,2001,249853
-Gladiator 4,9.9,2000,530632
-The Prestige 4,4.7,2022,486460
-The Departed 4,9.7,1995,886391
-Joker 4,5.2,2002,48146
-The Lion King 4,3.5,2013,661700
-Alien 4,4.6,1992,719981
-WALL·E 4,1.2,2024,422627
-Oldboy 4,8.6,2008,469235
-Coco 4,2.1,2005,661993
-The Shining 4,1.4,1998,255619
-Braveheart 4,1.4,2015,556333
-Once Upon a Time in Hollywood 4,7.2,2000,788878
-Avengers: Infinity War 4,5.8,1992,218138
-Up 4,7.8,1985,658720
-A Beautiful Mind 4,9.8,2020,948377
-The Truman Show 4,2.4,2020,848585
-Inside Out 4,5.9,1990,192264
-The Pianist 4,9.8,2024,496025
-Terminator 2: Judgment Day 4,9.7,1981,251599
-Back to the Future 4,3.5,2012,223517
-Django Unchained 4,8.9,2017,43518
-The Wolf of Wall Street 4,8.7,2008,228483
-1917 4,2.9,1984,730240
-La La Land 4,6.6,2006,892722
-Blade Runner 2049 4,9.7,1999,453439
-The Big Short 4,1.6,2013,326682
-Logan 4,1.3,1983,169593
-Black Panther 4,4.3,2001,989857
-Knives Out 4,2.9,1981,557450
-The Shawshank Redemption 5,6,1984,382307
-The Godfather 5,7.1,2017,218768
-The Dark Knight 5,2.9,2005,539463
-Pulp Fiction 5,2.1,2011,857805
-The Lord of the Rings: The Return of the King 5,2.3,2019,178556
-Forrest Gump 5,6.2,2019,243671
-Inception 5,9.9,2011,149795
-Fight Club 5,2.9,1989,547359
-The Matrix 5,8.1,2005,998278
-Goodfellas 5,5.1,2021,996126
-The Empire Strikes Back 5,7,2008,775199
-Interstellar 5,9.3,2022,320037
-City of God 5,5.1,2009,630241
-Spirited Away 5,6.7,2012,917252
-Saving Private Ryan 5,5,2011,396031
-Parasite 5,6.1,2024,401513
-The Green Mile 5,4.9,2019,790299
-Se7en 5,2.5,1998,369147
-The Silence of the Lambs 5,2.3,2000,699502
-Avengers: Endgame 5,2.1,1998,450035
-Whiplash 5,3.6,2000,573498
-Gladiator 5,3.9,2022,780612
-The Prestige 5,6.8,1996,17038
-The Departed 5,4.6,2003,294222
-Joker 5,8.1,2021,718153
-The Lion King 5,2.5,1986,777278
-Alien 5,8.6,2018,442072
-WALL·E 5,6.1,2022,743859
-Oldboy 5,6.3,2018,138380
-Coco 5,8.1,2017,5501
-The Shining 5,4.2,1988,343119
-Braveheart 5,6.4,1984,161721
-Once Upon a Time in Hollywood 5,5.1,2020,545147
-Avengers: Infinity War 5,1.9,2021,177384
-Up 5,3.3,1993,295873
-A Beautiful Mind 5,2.6,1999,424208
-The Truman Show 5,4.9,2009,753882
-Inside Out 5,6.4,1984,670508
-The Pianist 5,4.5,2010,37474
-Terminator 2: Judgment Day 5,6.4,1998,771995
-Back to the Future 5,8,2024,575837
-Django Unchained 5,7.5,2006,63221
-The Wolf of Wall Street 5,9.5,1995,248766
-1917 5,8.5,1982,992469
-La La Land 5,1,2008,297009
-Blade Runner 2049 5,9.8,2008,141711
-The Big Short 5,2.1,2024,684093
-Logan 5,2.1,1981,831647
-Black Panther 5,10,2017,400764
-Knives Out 5,7.3,1998,582367
-The Shawshank Redemption 6,9.8,2002,504713
-The Godfather 6,8.8,2014,697851
-The Dark Knight 6,4.5,1981,949036
-Pulp Fiction 6,3.3,2007,817681
-The Lord of the Rings: The Return of the King 6,2.9,2009,749409
-Forrest Gump 6,8.9,1981,3809
-Inception 6,5.4,1984,254085
-Fight Club 6,2.7,2009,13706
-The Matrix 6,3.8,2006,119894
-Goodfellas 6,5.5,1995,861932
-The Empire Strikes Back 6,1.6,2014,299378
-Interstellar 6,3.8,2020,94731
-City of God 6,9.6,1982,285811
-Spirited Away 6,1.1,1993,11226
-Saving Private Ryan 6,1.3,2015,785211
-Parasite 6,8.9,2010,823145
-The Green Mile 6,9.3,2015,298117
-Se7en 6,1.5,1992,545476
-The Silence of the Lambs 6,6.2,1994,167141
-Avengers: Endgame 6,9.9,2012,539144
-Whiplash 6,1.2,2007,719199
-Gladiator 6,6.6,2012,795618
-The Prestige 6,2.1,2005,227271
-The Departed 6,4.2,1988,28129
-Joker 6,1.2,1988,874112
-The Lion King 6,6.7,1984,871611
-Alien 6,5.7,2015,952808
-WALL·E 6,8.4,1993,42302
-Oldboy 6,9.8,2003,512539
-Coco 6,4.1,2012,841340
-The Shining 6,4.6,1981,809316
-Braveheart 6,7.3,2001,114294
-Once Upon a Time in Hollywood 6,8.1,2009,12569
-Avengers: Infinity War 6,8.5,1994,192830
-Up 6,9.2,2009,250333
-A Beautiful Mind 6,3.1,2020,591456
-The Truman Show 6,5.8,2016,768131
-Inside Out 6,2.1,1980,556984
-The Pianist 6,7.9,2010,611233
-Terminator 2: Judgment Day 6,7,1992,615371
-Back to the Future 6,3.9,1988,54469
-Django Unchained 6,8.4,1997,541652
-The Wolf of Wall Street 6,6.8,1986,547424
-1917 6,1.5,1986,756529
-La La Land 6,9.7,1987,477382
-Blade Runner 2049 6,9.9,1992,554630
-The Big Short 6,5.8,2005,129997
-Logan 6,5.8,2004,649313
-Black Panther 6,1.8,2005,875876
-Knives Out 6,9.9,1993,911799
-The Shawshank Redemption 7,3.6,2015,603725
-The Godfather 7,8.5,2015,925918
-The Dark Knight 7,3.4,2024,519633
-Pulp Fiction 7,2.2,2014,924749
-The Lord of the Rings: The Return of the King 7,2.8,2019,551926
-Forrest Gump 7,6.1,1994,964897
-Inception 7,7.5,2006,528499
-Fight Club 7,1.8,2006,575867
-The Matrix 7,8,1994,661684
-Goodfellas 7,3,2016,529451
-The Empire Strikes Back 7,2.4,1989,976968
-Interstellar 7,8.1,2006,832849
-City of God 7,3.4,2023,216259
-Spirited Away 7,5.1,1997,306127
-Saving Private Ryan 7,6.1,2024,901489
-Parasite 7,9.5,1990,415239
-The Green Mile 7,4.3,2023,973046
-Se7en 7,5,2006,778281
-The Silence of the Lambs 7,8.8,2013,441324
-Avengers: Endgame 7,8.2,2002,465790
-Whiplash 7,3.8,1998,635468
-Gladiator 7,1.8,2004,578331
-The Prestige 7,9.6,1989,835772
-The Departed 7,4.4,2020,512141
-Joker 7,1.1,2013,926836
-The Lion King 7,7.7,1987,329808
-Alien 7,5.1,2010,425762
-WALL·E 7,2,1989,436194
-Oldboy 7,10,2016,131989
-Coco 7,8.8,1996,969435
-The Shining 7,6.6,1991,220086
-Braveheart 7,9.6,2005,437292
-Once Upon a Time in Hollywood 7,3.6,2017,517484
-Avengers: Infinity War 7,1.4,1986,290723
-Up 7,6.2,2023,424557
-A Beautiful Mind 7,5,2024,587379
-The Truman Show 7,9,2005,553191
-Inside Out 7,5.8,2000,639713
-The Pianist 7,4.6,2013,81672
-Terminator 2: Judgment Day 7,6.7,2011,136363
-Back to the Future 7,8.3,1981,233201
-Django Unchained 7,2,2013,328640
-The Wolf of Wall Street 7,1.9,2019,467582
-1917 7,4.8,2017,322270
-La La Land 7,9.7,2012,946214
-Blade Runner 2049 7,9.5,1998,65045
-The Big Short 7,1.1,1992,790583
-Logan 7,1.3,1988,396528
-Black Panther 7,8.5,2000,618503
-Knives Out 7,9.9,1994,93191
-The Shawshank Redemption 8,3.5,1994,859580
-The Godfather 8,4.3,2001,371224
-The Dark Knight 8,10,1996,252427
-Pulp Fiction 8,5.7,1982,913819
-The Lord of the Rings: The Return of the King 8,4.3,2011,750363
-Forrest Gump 8,8.2,1984,200242
-Inception 8,3.1,2000,784685
-Fight Club 8,2.8,1982,337821
-The Matrix 8,1.2,1995,547117
-Goodfellas 8,8.7,2011,599171
-The Empire Strikes Back 8,5.6,1986,171436
-Interstellar 8,9.2,2023,360553
-City of God 8,3.5,1995,710460
-Spirited Away 8,7.9,1987,914077
-Saving Private Ryan 8,5.2,2007,503605
-Parasite 8,2.2,2007,394049
-The Green Mile 8,5.3,1983,171044
-Se7en 8,4.7,1981,803029
-The Silence of the Lambs 8,6.3,1983,524246
-Avengers: Endgame 8,6.9,2008,792400
-Whiplash 8,8.5,2003,113030
-Gladiator 8,8.9,1990,9409
-The Prestige 8,1.5,1997,4704
-The Departed 8,9.9,2006,899630
-Joker 8,1.5,1985,732646
-The Lion King 8,7.3,2022,400545
-Alien 8,5.7,2022,715395
-WALL·E 8,4.2,2017,400372
-Oldboy 8,6.5,2010,539519
-Coco 8,7.2,2001,264287
-The Shining 8,4.4,2000,105891
-Braveheart 8,8.8,2020,878901
-Once Upon a Time in Hollywood 8,2.8,1980,99536
-Avengers: Infinity War 8,6.2,1995,716104
-Up 8,9.6,1996,161466
-A Beautiful Mind 8,5.6,2008,356785
-The Truman Show 8,7,2012,800721
-Inside Out 8,7.9,1981,233660
-The Pianist 8,2.9,2024,515637
-Terminator 2: Judgment Day 8,5.7,1992,998171
-Back to the Future 8,5.4,2013,776853
-Django Unchained 8,6.9,2010,795414
-The Wolf of Wall Street 8,4.3,1982,54523
-1917 8,9.5,1997,666061
-La La Land 8,3,1981,607970
-Blade Runner 2049 8,9.8,2012,602594
-The Big Short 8,2.4,1981,990047
-Logan 8,2.5,2020,766038
-Black Panther 8,5.7,1990,639381
-Knives Out 8,5.9,1980,587546
-The Shawshank Redemption 9,4.6,2000,402634
-The Godfather 9,4.9,2016,374310
-The Dark Knight 9,8.4,1991,657164
-Pulp Fiction 9,5.9,1982,124488
-The Lord of the Rings: The Return of the King 9,1.6,2007,507998
-Forrest Gump 9,7,2014,985046
-Inception 9,4.5,1982,360908
-Fight Club 9,6.5,1983,733465
-The Matrix 9,3,2016,399359
-Goodfellas 9,6.9,2007,198981
-The Empire Strikes Back 9,5.1,2020,993403
-Interstellar 9,5.4,1982,149817
-City of God 9,3.5,2020,684498
-Spirited Away 9,8.1,1985,936975
-Saving Private Ryan 9,6.6,1997,557316
-Parasite 9,8.2,2020,920289
-The Green Mile 9,9.7,1985,868607
-Se7en 9,5.3,2019,92523
-The Silence of the Lambs 9,5.1,2013,211668
-Avengers: Endgame 9,7.5,2016,680375
-Whiplash 9,9.1,2018,361747
-Gladiator 9,4.9,2024,145947
-The Prestige 9,9.2,2022,403256
-The Departed 9,2.3,1989,157530
-Joker 9,8.6,2015,440552
-The Lion King 9,5.8,2007,620768
-Alien 9,1.6,2019,439884
-WALL·E 9,4.9,2006,774834
-Oldboy 9,3.2,2001,263699
-Coco 9,5.3,1995,532344
-The Shining 9,3.8,2011,168642
-Braveheart 9,6.9,1982,563916
-Once Upon a Time in Hollywood 9,9.5,2007,260582
-Avengers: Infinity War 9,2.8,1986,389519
-Up 9,6.4,1982,891950
-A Beautiful Mind 9,3.8,1997,262764
-The Truman Show 9,9,2021,968195
-Inside Out 9,6.7,1985,379133
-The Pianist 9,4.7,1989,933994
-Terminator 2: Judgment Day 9,2.4,1996,875164
-Back to the Future 9,5.7,1981,614481
-Django Unchained 9,3.4,1996,285854
-The Wolf of Wall Street 9,3.3,2014,76294
-1917 9,5.6,1985,168157
-La La Land 9,1.6,1996,173264
-Blade Runner 2049 9,4.6,2006,235658
-The Big Short 9,1.8,2014,142860
-Logan 9,4.2,1988,928241
-Black Panther 9,9.2,1994,81128
-Knives Out 9,4.4,1993,923698
-The Shawshank Redemption 10,9.8,1987,479556
-The Godfather 10,2.6,1984,661253
-The Dark Knight 10,6.3,2006,417781
-Pulp Fiction 10,4.8,2016,969021
-The Lord of the Rings: The Return of the King 10,8.7,2000,162834
-Forrest Gump 10,9.8,1991,801688
-Inception 10,9.5,2001,729853
-Fight Club 10,4.5,1986,22918
-The Matrix 10,6.2,2002,634228
-Goodfellas 10,7.4,2007,728014
-The Empire Strikes Back 10,5.1,2007,460326
-Interstellar 10,4.6,1997,122595
-City of God 10,6,2001,929311
-Spirited Away 10,2,2018,4709
-Saving Private Ryan 10,3.7,1992,531695
-Parasite 10,8.2,1980,863657
-The Green Mile 10,7.2,1993,997248
-Se7en 10,1.8,1983,849338
-The Silence of the Lambs 10,3.7,2006,252628
-Avengers: Endgame 10,5.8,1980,384558
-Whiplash 10,9,1980,430582
-Gladiator 10,9.8,2015,914324
-The Prestige 10,6.4,1981,326828
-The Departed 10,4,1991,720070
-Joker 10,2.1,1999,19848
-The Lion King 10,9.5,1995,442005
-Alien 10,8.3,2017,516138
-WALL·E 10,4,1999,198686
-Oldboy 10,3.9,1980,238397
-Coco 10,7.8,1995,731820
-The Shining 10,2.2,2012,349782
-Braveheart 10,2.2,2019,612732
-Once Upon a Time in Hollywood 10,3.1,1980,200960
-Avengers: Infinity War 10,8.8,1998,674839
-Up 10,7.4,2014,544145
-A Beautiful Mind 10,6,2000,248898
-The Truman Show 10,4.2,2014,694250
-Inside Out 10,2.6,1984,880707
-The Pianist 10,7.6,1981,937027
-Terminator 2: Judgment Day 10,2.8,1993,363477
-Back to the Future 10,10,1995,522195
-Django Unchained 10,6.7,1994,941381
-The Wolf of Wall Street 10,6.9,1992,17799
-1917 10,1.5,2005,92813
-La La Land 10,7.6,2011,856241
-Blade Runner 2049 10,2.5,1982,411432
-The Big Short 10,9.7,1990,845084
-Logan 10,3,1984,804016
-Black Panther 10,8.7,2021,439080
-Knives Out 10,8.1,1994,880641
-The Shawshank Redemption 11,4.1,1990,379339
-The Godfather 11,2.5,2019,755485
-The Dark Knight 11,1.2,1980,803476
-Pulp Fiction 11,4.7,2006,271690
-The Lord of the Rings: The Return of the King 11,3.5,2006,752620
-Forrest Gump 11,6.1,2011,563427
-Inception 11,6.9,2015,446148
-Fight Club 11,8.8,1985,800257
-The Matrix 11,7,1992,47025
-Goodfellas 11,8.3,1985,383550
-The Empire Strikes Back 11,2,1991,519642
-Interstellar 11,1.5,2003,56338
-City of God 11,3.7,1983,765339
-Spirited Away 11,5.3,1997,82245
-Saving Private Ryan 11,4.1,1983,412741
-Parasite 11,1.7,2022,844899
-The Green Mile 11,7,1999,349421
-Se7en 11,8.8,2009,257447
-The Silence of the Lambs 11,2,2009,347689
-Avengers: Endgame 11,6.2,2011,630096
-Whiplash 11,8.4,1984,405359
-Gladiator 11,9.2,2006,525524
-The Prestige 11,2.9,1992,963841
-The Departed 11,3.2,2019,755724
-Joker 11,5.4,2014,101938
-The Lion King 11,6.3,1996,127858
-Alien 11,5.2,1997,254374
-WALL·E 11,9.2,2023,138920
-Oldboy 11,8.7,1998,148481
-Coco 11,7.2,2017,971110
-The Shining 11,2.6,1988,733106
-Braveheart 11,7.5,2023,128069
-Once Upon a Time in Hollywood 11,4.4,2013,724264
-Avengers: Infinity War 11,4.8,2012,265109
-Up 11,7.6,2013,841640
-A Beautiful Mind 11,7.7,2004,589538
-The Truman Show 11,6.8,1980,46258
-Inside Out 11,1.2,1997,221875
-The Pianist 11,9.1,1990,287030
-Terminator 2: Judgment Day 11,1.5,1986,914773
-Back to the Future 11,8.7,1990,332837
-Django Unchained 11,7.5,2005,69678
-The Wolf of Wall Street 11,6.4,1988,443172
-1917 11,3.4,2002,880613
-La La Land 11,4.2,1984,395331
-Blade Runner 2049 11,3.5,2023,693921
-The Big Short 11,4.7,2017,95834
-Logan 11,3.1,2014,798262
-Black Panther 11,2.3,2020,594768
-Knives Out 11,2.8,1982,867100
-The Shawshank Redemption 12,6.3,2015,392410
-The Godfather 12,6.3,1986,238065
-The Dark Knight 12,5,2009,95782
-Pulp Fiction 12,9,2004,113773
-The Lord of the Rings: The Return of the King 12,1,2011,276057
-Forrest Gump 12,7,1996,70370
-Inception 12,6,2006,143586
-Fight Club 12,6.3,2017,124120
-The Matrix 12,8.2,2018,461099
-Goodfellas 12,5.5,2014,410682
-The Empire Strikes Back 12,8.8,2000,317315
-Interstellar 12,4.1,1995,437933
-City of God 12,9.9,1985,705827
-Spirited Away 12,4.5,1990,974252
-Saving Private Ryan 12,1.7,1985,595833
-Parasite 12,8,1995,336986
-The Green Mile 12,1.2,1999,137919
-Se7en 12,9.3,2020,878494
-The Silence of the Lambs 12,1.6,2023,21527
-Avengers: Endgame 12,5.1,2016,583793
-Whiplash 12,5.1,2017,793600
-Gladiator 12,3.8,1987,726292
-The Prestige 12,8.7,2009,810423
-The Departed 12,5.4,1993,333407
-Joker 12,5,1990,385570
-The Lion King 12,3.3,1987,358369
-Alien 12,9.6,2016,707993
-WALL·E 12,3.9,1999,471160
-Oldboy 12,3.4,2018,581899
-Coco 12,3.4,1986,835065
-The Shining 12,5.3,2020,439208
-Braveheart 12,6.7,1995,128430
-Once Upon a Time in Hollywood 12,4,2013,660410
-Avengers: Infinity War 12,6.1,2024,786173
-Up 12,5.8,1988,220261
-A Beautiful Mind 12,6.1,1986,170784
-The Truman Show 12,1.3,2011,721847
-Inside Out 12,5.5,2000,896373
-The Pianist 12,4.1,2020,517590
-Terminator 2: Judgment Day 12,7,1981,338058
-Back to the Future 12,2.2,2001,872157
-Django Unchained 12,6.8,2024,888169
-The Wolf of Wall Street 12,3.9,1996,494801
-1917 12,8.4,2004,531887
-La La Land 12,1.8,2001,379239
-Blade Runner 2049 12,2.4,1988,250222
-The Big Short 12,8.7,2010,736245
-Logan 12,9,2012,834655
-Black Panther 12,5.3,1989,858955
-Knives Out 12,4.7,2008,345317
-The Shawshank Redemption 13,1.2,2005,373150
-The Godfather 13,8.1,1986,275866
-The Dark Knight 13,8.9,1987,408432
-Pulp Fiction 13,2.5,1998,204652
-The Lord of the Rings: The Return of the King 13,6.7,1990,398912
-Forrest Gump 13,3.7,1987,784652
-Inception 13,9.4,2000,789000
-Fight Club 13,5.4,2015,745917
-The Matrix 13,9.2,1991,491945
-Goodfellas 13,1.7,2004,662259
-The Empire Strikes Back 13,1.9,2014,260793
-Interstellar 13,4.3,1985,531929
-City of God 13,1.9,2004,596193
-Spirited Away 13,2.6,2000,291251
-Saving Private Ryan 13,3.4,1988,958631
-Parasite 13,6.3,1998,335688
-The Green Mile 13,4.4,1988,82894
-Se7en 13,5.9,2024,535481
-The Silence of the Lambs 13,7.8,1991,867278
-Avengers: Endgame 13,8.3,1999,258992
-Whiplash 13,3.4,1983,368303
-Gladiator 13,6.5,2014,19213
-The Prestige 13,6.3,1991,698812
-The Departed 13,5.7,2009,218799
-Joker 13,9.2,1986,746560
-The Lion King 13,5.7,2012,585866
-Alien 13,8,1997,925504
-WALL·E 13,2.1,1987,542658
-Oldboy 13,5.3,1998,586885
-Coco 13,3.5,1999,683223
-The Shining 13,3.8,2012,834311
-Braveheart 13,9.3,1997,651130
-Once Upon a Time in Hollywood 13,7.8,1996,203009
-Avengers: Infinity War 13,5.7,1983,68882
-Up 13,7.7,1992,585673
-A Beautiful Mind 13,3.5,1990,832858
-The Truman Show 13,6.9,1999,402818
-Inside Out 13,1.6,1986,445411
-The Pianist 13,5.2,1995,156161
-Terminator 2: Judgment Day 13,8.9,1980,683667
-Back to the Future 13,8.3,1991,568516
-Django Unchained 13,9.8,1986,743015
-The Wolf of Wall Street 13,7.5,2007,106406
-1917 13,1.9,1982,385879
-La La Land 13,3.7,1990,5722
-Blade Runner 2049 13,3.1,2009,89877
-The Big Short 13,1.6,1986,616385
-Logan 13,8.9,2023,802416
-Black Panther 13,3.4,1989,637214
-Knives Out 13,4.4,1990,953786
-The Shawshank Redemption 14,1.9,2007,221556
-The Godfather 14,4.9,1980,628076
-The Dark Knight 14,1.6,2023,385190
-Pulp Fiction 14,6.2,2024,6835
-The Lord of the Rings: The Return of the King 14,3.3,1998,302123
-Forrest Gump 14,3.9,2003,382750
-Inception 14,3.9,2019,218891
-Fight Club 14,4.4,1984,891105
-The Matrix 14,2,1980,315502
-Goodfellas 14,7.6,2002,736794
-The Empire Strikes Back 14,4.8,1986,478375
-Interstellar 14,2.5,2016,817556
-City of God 14,8.3,1992,321613
-Spirited Away 14,3.7,2009,302711
-Saving Private Ryan 14,3,1995,445141
-Parasite 14,8.1,2019,812469
-The Green Mile 14,4.7,1980,654504
-Se7en 14,9.6,2016,162445
-The Silence of the Lambs 14,2.6,1984,508377
-Avengers: Endgame 14,5.7,2020,610651
-Whiplash 14,1.5,1989,471091
-Gladiator 14,3.7,1985,905518
-The Prestige 14,4.1,2000,925079
-The Departed 14,2.7,2003,683630
-Joker 14,5.5,2015,606781
-The Lion King 14,1.3,1987,59095
-Alien 14,3.9,1995,85682
-WALL·E 14,4.4,1993,698791
-Oldboy 14,1.8,2021,340519
-Coco 14,7,2005,834924
-The Shining 14,5.7,1993,728757
-Braveheart 14,5.4,2019,262818
-Once Upon a Time in Hollywood 14,10,1993,159845
-Avengers: Infinity War 14,9,1992,535228
-Up 14,4.9,2014,847994
-A Beautiful Mind 14,7.1,1994,964978
-The Truman Show 14,7.1,2013,979551
-Inside Out 14,1.5,2011,177123
-The Pianist 14,4.8,2022,869786
-Terminator 2: Judgment Day 14,6.5,1999,145886
-Back to the Future 14,9,1988,990593
-Django Unchained 14,8.4,1990,839572
-The Wolf of Wall Street 14,9.1,2015,313912
-1917 14,3.9,1992,59068
-La La Land 14,7.5,2001,684903
-Blade Runner 2049 14,6.2,1987,535643
-The Big Short 14,4.4,2019,733975
-Logan 14,3.8,1999,275490
-Black Panther 14,8.8,2018,518939
-Knives Out 14,4.7,1983,402246
-The Shawshank Redemption 15,4.7,2014,728335
-The Godfather 15,6.6,2023,207416
-The Dark Knight 15,6.3,2016,906536
-Pulp Fiction 15,5.5,1990,333795
-The Lord of the Rings: The Return of the King 15,6,1988,194447
-Forrest Gump 15,1.5,1995,744045
-Inception 15,9.3,1993,904266
-Fight Club 15,6.6,2005,438793
-The Matrix 15,8.3,2001,632749
-Goodfellas 15,1.7,1988,507146
-The Empire Strikes Back 15,6.3,2020,646227
-Interstellar 15,9.4,1984,310191
-City of God 15,8.9,2018,309053
-Spirited Away 15,8.2,2002,648605
-Saving Private Ryan 15,8.2,2021,635247
-Parasite 15,2.2,2019,528288
-The Green Mile 15,4.6,1984,624281
-Se7en 15,8.4,2024,331031
-The Silence of the Lambs 15,9.1,2007,661983
-Avengers: Endgame 15,7,1989,897846
-Whiplash 15,5.7,1995,835770
-Gladiator 15,5,2020,708885
-The Prestige 15,6.3,1993,435658
-The Departed 15,9.8,2011,175689
-Joker 15,4.9,2006,797549
-The Lion King 15,3.2,2022,236650
-Alien 15,5.1,2002,837533
-WALL·E 15,3,1989,26573
-Oldboy 15,5.3,2010,94290
-Coco 15,2.2,2020,660016
-The Shining 15,6,2019,763164
-Braveheart 15,8.7,1988,191460
-Once Upon a Time in Hollywood 15,7.4,2007,16100
-Avengers: Infinity War 15,7.8,2002,536592
-Up 15,8.8,2019,451190
-A Beautiful Mind 15,2,1991,368282
-The Truman Show 15,9.5,1993,942284
-Inside Out 15,6.1,1986,971989
-The Pianist 15,9.4,2022,619195
-Terminator 2: Judgment Day 15,8.8,2016,654103
-Back to the Future 15,1,1991,928300
-Django Unchained 15,5.5,1991,759280
-The Wolf of Wall Street 15,6.3,2013,309750
-1917 15,9.5,1992,963568
-La La Land 15,3.7,2015,637413
-Blade Runner 2049 15,7.5,1981,880979
-The Big Short 15,9.6,1985,131744
-Logan 15,4,2006,497420
-Black Panther 15,1.6,2016,900339
-Knives Out 15,9.5,2020,823793
-The Shawshank Redemption 16,5.7,2005,350365
-The Godfather 16,3,2010,299997
-The Dark Knight 16,6.6,2018,269662
-Pulp Fiction 16,1.5,2024,792116
-The Lord of the Rings: The Return of the King 16,3.5,2022,988687
-Forrest Gump 16,7.6,2003,434401
-Inception 16,1.4,2008,428814
-Fight Club 16,6.3,2000,905090
-The Matrix 16,5,2003,964940
-Goodfellas 16,6.1,2000,429821
-The Empire Strikes Back 16,8.6,1992,291070
-Interstellar 16,8.1,2007,938171
-City of God 16,5,2015,193163
-Spirited Away 16,5.9,2022,225329
-Saving Private Ryan 16,6.8,2009,823892
-Parasite 16,2.1,2014,194576
-The Green Mile 16,3.7,2017,702662
-Se7en 16,7.2,1993,603016
-The Silence of the Lambs 16,6.6,2017,870739
-Avengers: Endgame 16,6,2012,453155
-Whiplash 16,5.1,1980,276368
-Gladiator 16,4.7,1997,290864
-The Prestige 16,3.6,2015,412326
-The Departed 16,2.1,1990,300663
-Joker 16,5.2,1997,363425
-The Lion King 16,4.9,1999,896184
-Alien 16,7.5,1984,813619
-WALL·E 16,6,2006,809344
-Oldboy 16,7.8,1999,991077
-Coco 16,2,2010,385634
-The Shining 16,7,2023,741974
-Braveheart 16,7.7,1993,827902
-Once Upon a Time in Hollywood 16,3.7,2018,556363
-Avengers: Infinity War 16,8.5,2020,795758
-Up 16,5.2,2001,853041
-A Beautiful Mind 16,5.7,2024,540292
-The Truman Show 16,5.5,2001,128013
-Inside Out 16,2.7,2015,931659
-The Pianist 16,4.8,2008,224407
-Terminator 2: Judgment Day 16,8.9,1985,197246
-Back to the Future 16,9.2,2006,877713
-Django Unchained 16,5.8,1992,281279
-The Wolf of Wall Street 16,7.9,2024,281063
-1917 16,2.5,2016,489516
-La La Land 16,9.7,1989,653294
-Blade Runner 2049 16,4.1,1989,661185
-The Big Short 16,4.2,1981,531708
-Logan 16,5.7,2022,156162
-Black Panther 16,4.6,2009,775188
-Knives Out 16,5.4,1994,994855
-The Shawshank Redemption 17,1.8,1984,276704
-The Godfather 17,8.7,2007,218479
-The Dark Knight 17,9.8,2001,654071
-Pulp Fiction 17,1.2,1983,38773
-The Lord of the Rings: The Return of the King 17,1.2,2003,227297
-Forrest Gump 17,8.8,1996,306128
-Inception 17,4.1,2016,97558
-Fight Club 17,7.6,1982,871721
-The Matrix 17,4.1,1990,963262
-Goodfellas 17,5.2,1990,822516
-The Empire Strikes Back 17,9.4,2018,843608
-Interstellar 17,5.2,2006,432369
-City of God 17,8,1987,641971
-Spirited Away 17,6.7,1984,315278
-Saving Private Ryan 17,2.8,2018,993525
-Parasite 17,2.4,2020,405196
-The Green Mile 17,5.2,1998,902119
-Se7en 17,5.2,1982,745145
-The Silence of the Lambs 17,7.3,1988,690310
-Avengers: Endgame 17,1.4,2018,154013
-Whiplash 17,9.9,1999,247446
-Gladiator 17,3.8,2005,425511
-The Prestige 17,5.2,2021,184231
-The Departed 17,9.7,2016,399659
-Joker 17,2.5,2023,226202
-The Lion King 17,5.8,1984,84390
-Alien 17,9.7,2006,883355
-WALL·E 17,7,1985,601389
-Oldboy 17,8.5,1996,81982
-Coco 17,6.2,1996,182895
-The Shining 17,9.5,2008,613831
-Braveheart 17,9.7,2006,324029
-Once Upon a Time in Hollywood 17,4.1,1996,352958
-Avengers: Infinity War 17,6.8,1980,145935
-Up 17,2.2,2015,620663
-A Beautiful Mind 17,6.9,1999,846081
-The Truman Show 17,7.8,2008,302221
-Inside Out 17,3.9,2018,539602
-The Pianist 17,7.1,1991,405747
-Terminator 2: Judgment Day 17,7.5,2020,435053
-Back to the Future 17,9.6,1980,573866
-Django Unchained 17,4.9,2022,465023
-The Wolf of Wall Street 17,8.4,2015,885721
-1917 17,6,2005,462743
-La La Land 17,6.7,1981,406026
-Blade Runner 2049 17,5,2019,547185
-The Big Short 17,3.1,1989,179667
-Logan 17,3.4,2021,72406
-Black Panther 17,8.9,2013,382810
-Knives Out 17,9.4,2018,57846
-The Shawshank Redemption 18,3.8,1984,2176
-The Godfather 18,8.4,2023,562280
-The Dark Knight 18,3.7,2013,9271
-Pulp Fiction 18,2.8,2016,734965
-The Lord of the Rings: The Return of the King 18,8.6,1984,114038
-Forrest Gump 18,6.4,2011,880725
-Inception 18,7.2,1989,622793
-Fight Club 18,1.1,1992,407262
-The Matrix 18,2.5,1996,179589
-Goodfellas 18,8.8,1993,958587
-The Empire Strikes Back 18,6.4,1990,693750
-Interstellar 18,9.5,2008,333937
-City of God 18,3.9,1981,732015
-Spirited Away 18,2.3,1990,627219
-Saving Private Ryan 18,5.8,1994,365484
-Parasite 18,1.3,1990,110529
-The Green Mile 18,8,2020,960903
-Se7en 18,8,1982,744595
-The Silence of the Lambs 18,4.3,1998,982324
-Avengers: Endgame 18,7.5,1987,968792
-Whiplash 18,6.7,2013,720368
-Gladiator 18,6.1,2000,925087
-The Prestige 18,7.9,2018,655787
-The Departed 18,2,2020,942019
-Joker 18,9,1990,628531
-The Lion King 18,1.7,2012,797882
-Alien 18,8.7,2019,279999
-WALL·E 18,3.1,2020,222707
-Oldboy 18,2.7,1989,130394
-Coco 18,4.2,1997,204330
-The Shining 18,5.5,2016,890113
-Braveheart 18,5.1,2002,188933
-Once Upon a Time in Hollywood 18,1.6,2018,749644
-Avengers: Infinity War 18,9.3,1986,264708
-Up 18,3.8,2019,528185
-A Beautiful Mind 18,8.6,2016,192021
-The Truman Show 18,1.3,1993,953160
-Inside Out 18,6.4,2011,175866
-The Pianist 18,7.8,2013,774128
-Terminator 2: Judgment Day 18,5.8,1995,163818
-Back to the Future 18,1.8,2022,480262
-Django Unchained 18,4.1,2011,37442
-The Wolf of Wall Street 18,4,2024,727094
-1917 18,4.6,1989,947785
-La La Land 18,8.2,1992,397141
-Blade Runner 2049 18,4.7,1989,228627
-The Big Short 18,1.8,2012,415625
-Logan 18,5.7,1993,179231
-Black Panther 18,6.3,1984,335053
-Knives Out 18,7.4,2014,771081
-The Shawshank Redemption 19,4.8,1988,887716
-The Godfather 19,3.3,1987,666678
-The Dark Knight 19,9.2,2015,735058
-Pulp Fiction 19,9.1,1999,944790
-The Lord of the Rings: The Return of the King 19,2.2,1999,349358
-Forrest Gump 19,4.2,1990,339704
-Inception 19,6.2,2016,613386
-Fight Club 19,1.1,1982,509660
-The Matrix 19,4.7,1990,338484
-Goodfellas 19,6.5,2010,528420
-The Empire Strikes Back 19,6.4,1980,349793
-Interstellar 19,6.7,1989,605872
-City of God 19,1.6,1996,445009
-Spirited Away 19,1.9,1989,631141
-Saving Private Ryan 19,6.1,1980,702937
-Parasite 19,8.8,1990,368978
-The Green Mile 19,7.6,2023,600238
-Se7en 19,2.4,2001,6290
-The Silence of the Lambs 19,3,1986,589880
-Avengers: Endgame 19,6.4,1990,434684
-Whiplash 19,1.3,2008,420891
-Gladiator 19,4.4,2000,641505
-The Prestige 19,2.8,2014,319195
-The Departed 19,5,1988,493064
-Joker 19,3.4,2023,197538
-The Lion King 19,6.7,1989,229665
-Alien 19,9.2,1984,711140
-WALL·E 19,6.7,1987,683272
-Oldboy 19,7.2,2007,635062
-Coco 19,6.8,2008,118483
-The Shining 19,1.8,2003,475732
-Braveheart 19,5.8,2001,324815
-Once Upon a Time in Hollywood 19,1,1980,886131
-Avengers: Infinity War 19,6.3,2005,5252
-Up 19,9.7,2003,266756
-A Beautiful Mind 19,5.1,2012,751454
-The Truman Show 19,6.4,1992,155976
-Inside Out 19,6.9,1991,188912
-The Pianist 19,5.5,1981,552246
-Terminator 2: Judgment Day 19,3.9,1998,463412
-Back to the Future 19,4.8,2020,367766
-Django Unchained 19,7.6,2020,459009
-The Wolf of Wall Street 19,5.7,1998,134452
-1917 19,5.7,1996,173147
-La La Land 19,4.8,2013,901756
-Blade Runner 2049 19,2.8,2005,406644
-The Big Short 19,7,1984,457076
-Logan 19,2.9,2009,246133
-Black Panther 19,8.6,2005,243029
-Knives Out 19,3.1,1997,451831
-The Shawshank Redemption 20,7.8,1988,402005
-The Godfather 20,8.8,2023,195597
-The Dark Knight 20,8.2,2011,318907
-Pulp Fiction 20,5.7,1998,957629
-The Lord of the Rings: The Return of the King 20,3.4,2001,336711
-Forrest Gump 20,1.5,2007,66022
-Inception 20,2.1,1999,389128
-Fight Club 20,4.2,2007,273709
-The Matrix 20,3.4,1982,57792
-Goodfellas 20,9.8,2021,354186
-The Empire Strikes Back 20,3.1,1980,235128
-Interstellar 20,4,2014,538477
-City of God 20,1.2,2018,116070
-Spirited Away 20,7.8,2001,367300
-Saving Private Ryan 20,6.9,1995,298066
-Parasite 20,8.4,2017,51335
-The Green Mile 20,8.9,2006,13518
-Se7en 20,7.3,1990,216128
-The Silence of the Lambs 20,4,1989,701356
-Avengers: Endgame 20,8.4,2013,249519
-Whiplash 20,9.7,2021,381678
-Gladiator 20,1.1,2016,770125
-The Prestige 20,6.4,2010,355301
-The Departed 20,6.8,2011,777379
-Joker 20,8.1,1982,338929
-The Lion King 20,2.8,2007,259973
-Alien 20,2.8,2023,324732
-WALL·E 20,2.4,2009,521671
-Oldboy 20,4.9,2018,916150
-Coco 20,8.4,2001,698488
-The Shining 20,7.2,2013,152472
-Braveheart 20,1.9,2000,735536
-Once Upon a Time in Hollywood 20,4.6,1992,934203
-Avengers: Infinity War 20,8.3,1980,495107
-Up 20,9,1987,21517
-A Beautiful Mind 20,1.7,2021,963468
-The Truman Show 20,5.5,1993,538781
-Inside Out 20,6.1,2004,574856
-The Pianist 20,8.9,2001,420602
-Terminator 2: Judgment Day 20,4.5,1990,827804
-Back to the Future 20,4.9,1996,104324
-Django Unchained 20,5.2,2000,877550
-The Wolf of Wall Street 20,5.6,1989,766558
-1917 20,7.9,2012,60496
-La La Land 20,8.9,2013,705478
-Blade Runner 2049 20,3.5,1989,273239
-The Big Short 20,6,2007,511136
-Logan 20,1.3,1992,53167
-Black Panther 20,1.3,1995,281721
-Knives Out 20,1.9,1999,816573
+Title,Rating,Year,Popularity
+A City Chronicles,4.2,2024,1.24
+A City Divided,6.7,2022,10.29
+A Eclipse Divided,7.1,2007,100.0
+A Empire Chronicles,8.3,1996,100.0
+A Hunter Eternal,5.4,1992,100.0
+A Kingdom Awakened,8.3,2019,8.39
+A Legacy Divided,8.9,2009,37.6
+A Mountain Awakened,8.7,2007,100.0
+A Ocean Divided,7.8,2020,18.19
+A Phoenix Divided,8.3,2021,1.09
+A Phoenix Legacy,4.6,2003,19.62
+A Shadow Forever,5.8,2004,12.28
+A Storm Chronicles,7.8,1993,11.33
+A Storm Chronicles Part 1,6.9,2023,30.44
+A Storm Found,7.0,2006,100.0
+A Thunder,8.1,2014,1.11
+A Universe Reborn,3.3,2020,2.36
+A Valley Forever,4.5,2013,100.0
+A Warrior Awakened,8.2,2002,48.27
+A Warrior Returns,5.2,2011,17.05
+An City Divided,5.8,2019,4.07
+An Dawn Found,8.5,2014,100.0
+An Dawn Lost,4.7,1999,7.08
+An Dawn Returns,8.8,2017,11.48
+An Destiny,9.8,2023,4.94
+An Guardian Divided,8.9,2021,7.76
+An Horizon Chronicles,7.1,1995,2.91
+An Hunter Divided,6.0,2005,31.03
+An Hunter Origins,5.0,2016,3.06
+An Kingdom Forever,7.6,1987,1.49
+An Midnight Rises,9.2,1996,3.79
+An Paradise Lost,8.2,2023,10.26
+An Phoenix Reborn,7.5,2017,33.86
+An Shadow Legacy,4.0,2021,7.07
+An Shadow Returns,8.2,2020,21.93
+An Universe Eternal,9.0,2008,11.09
+An Valley Reborn,9.4,2016,18.17
+An Vengeance,7.5,2006,37.37
+An Vengeance Awakened,8.7,2018,11.07
+An Vengeance Returns,8.6,2007,14.88
+An Vengeance Returns Part 1,8.5,2007,8.55
+Beyond the Dawn Forever,7.0,2004,55.47
+Beyond the Dawn Origins,5.1,2021,2.27
+Beyond the Dragon Origins,7.9,2020,100.0
+Beyond the Eclipse Divided,8.2,2002,52.24
+Beyond the Eclipse Found,9.7,1995,2.71
+Beyond the Empire Awakened,7.5,2018,32.89
+Beyond the Guardian Eternal,6.4,2020,33.86
+Beyond the Horizon Forever,7.1,2014,12.42
+Beyond the Kingdom Forever,6.7,2006,20.34
+Beyond the Ocean Chronicles,8.9,2019,1.13
+Beyond the Redemption Returns,6.9,2010,100.0
+Beyond the Storm,7.4,2022,12.05
+Beyond the Thunder Forever,6.7,2007,24.75
+Beyond the Thunder Origins,8.0,1995,11.34
+Beyond the Universe Chronicles,4.3,2014,20.37
+Beyond the Universe Found,9.4,2006,0.61
+Beyond the Universe Reborn,9.6,2012,1.95
+Chronicles of City Awakened,7.1,2004,75.61
+Chronicles of City Rises,9.7,2016,79.05
+Chronicles of Destiny Eternal,4.7,2016,21.82
+Chronicles of Destiny Reborn,6.8,2023,13.21
+Chronicles of Destiny Rises,9.9,2001,20.46
+Chronicles of Eclipse Forever,7.3,2002,93.71
+Chronicles of Empire Legacy,8.2,2006,49.22
+Chronicles of Guardian Chronicles,9.1,2001,7.73
+Chronicles of Horizon Awakened,5.0,2003,8.94
+Chronicles of Horizon Origins,6.4,2010,10.35
+Chronicles of Horizon Rises,8.9,2013,13.48
+Chronicles of Kingdom United,9.0,1995,61.84
+Chronicles of Legacy Found,7.6,2015,9.06
+Chronicles of Legacy Origins,6.9,2014,33.52
+Chronicles of Paradise Returns,6.9,2018,3.37
+Chronicles of Phoenix Legacy,9.7,2018,8.13
+Chronicles of Shadow Returns,9.5,2011,27.52
+Chronicles of Shadow United,7.4,2024,10.66
+Chronicles of Thunder Eternal,9.3,2015,11.92
+Chronicles of Thunder Origins,7.7,2006,9.5
+Chronicles of Valley Chronicles,9.3,2011,18.2
+Chronicles of Warrior Found,7.3,2018,1.23
+Chronicles of Warrior Reborn,4.7,2018,10.54
+City 1,5.4,2024,8.26
+City 2,7.7,2021,5.0
+City 3,8.6,2016,20.42
+City 3 Part 1,8.8,2023,63.18
+City 4,7.8,2010,0.14
+City 4 Part 1,6.4,2015,2.83
+City 5,6.4,2002,11.63
+City 5 Part 1,8.5,2001,0.9
+City 5 Part 2,8.6,2003,100.0
+City 5 Part 3,8.6,2009,72.45
+City Code,5.4,2010,7.99
+City Day,7.7,2018,42.06
+City Effect,4.8,2001,11.28
+City Effect Part 1,7.3,2011,1.48
+City Game,8.9,2020,18.09
+City Game Part 1,8.7,1995,4.0
+City Night,5.7,2011,100.0
+City Night Part 1,8.5,2014,9.81
+City Theory,8.0,2011,4.23
+Dark Destiny,7.6,2009,67.84
+Dark Empire,5.5,2020,3.77
+Dark Guardian,9.8,2023,2.66
+Dark Guardian Part 1,6.8,2015,29.31
+Dark Horizon,4.3,2008,34.96
+Dark Horizon Part 1,6.8,1997,62.54
+Dark Legacy,8.4,1994,0.69
+Dark Legacy Part 1,6.1,2009,12.72
+Dark Legacy Part 2,7.1,2020,67.97
+Dark Midnight,7.3,2023,2.61
+Dark Midnight Part 1,5.3,2017,3.49
+Dark Midnight Part 2,5.1,2005,5.81
+Dark Midnight Part 3,8.1,2015,100.0
+Dark Mountain,6.6,2002,100.0
+Dark Mountain Part 1,6.6,2018,13.49
+Dark Ocean,6.6,1994,100.0
+Dark Paradise,8.5,2005,30.42
+Dark Paradise Part 1,6.2,1998,51.42
+Dark Paradise Part 2,9.2,2010,34.14
+Dark Phoenix,7.8,2009,4.06
+Dark Phoenix Part 1,8.4,2007,61.37
+Dark Phoenix Part 2,5.6,2008,31.35
+Dark Phoenix Part 3,7.1,2016,11.25
+Dark Phoenix Part 4,7.6,2018,12.37
+Dark Redemption,6.2,2021,4.15
+Dark Redemption Part 1,7.5,2004,1.75
+Dark Shadow,6.3,2013,0.35
+Dark Storm,9.1,2014,44.6
+Dark Storm Part 1,4.6,2014,23.9
+Dark Storm Part 2,9.4,2014,5.21
+Dark Storm Part 3,8.3,2002,27.23
+Dark Storm Part 4,4.6,2007,4.15
+Dark Thunder,7.1,2020,100.0
+Dark Thunder Part 1,8.9,2009,6.76
+Dark Thunder Part 2,8.6,2017,12.76
+Dark Thunder Part 3,9.8,1989,23.3
+Dark Thunder Part 4,7.7,2014,4.16
+Dark Universe,4.8,2016,1.84
+Dark Valley,6.7,1989,100.0
+Dark Valley Part 1,6.4,2003,7.8
+Dark Valley Part 2,4.8,2012,5.89
+Dark Valley Part 3,9.7,2020,4.4
+Dark Vengeance,7.7,1999,6.15
+Dark Vengeance Part 1,9.5,2021,18.78
+Dark Vengeance Part 2,3.4,2012,81.3
+Dark Vengeance Part 3,5.7,2015,9.2
+Dark Warrior,6.9,2008,66.09
+Dawn 1,6.1,2020,100.0
+Dawn 2,9.0,2018,5.45
+Dawn 3,6.4,2004,5.98
+Dawn 4,6.7,2000,16.55
+Dawn 5,9.0,2024,3.42
+Dawn 5 Part 1,9.5,2008,4.9
+Dawn 5 Part 2,8.8,2021,24.71
+Dawn Code,8.1,2017,9.56
+Dawn Code Part 1,6.6,2016,0.15
+Dawn Day,9.1,2016,3.53
+Dawn Day Part 1,9.1,2008,100.0
+Dawn Effect,8.6,2003,11.69
+Dawn Effect Part 1,3.7,2008,6.43
+Dawn Game,8.2,1993,7.17
+Dawn Game Part 1,6.2,2015,31.72
+Dawn Game Part 2,7.4,2013,30.68
+Dawn Night,9.1,1998,18.19
+Dawn Protocol,9.7,2020,16.46
+Dawn Protocol Part 1,8.5,2017,100.0
+Dawn Signal,4.7,2009,23.16
+Dawn Theory,4.1,1997,9.09
+Dawn Theory Part 1,8.7,2005,22.82
+Destiny 1,8.9,2016,3.71
+Destiny 3,6.0,2018,100.0
+Destiny 4,9.1,2017,0.2
+Destiny 4 Part 1,4.3,2022,17.59
+Destiny 4 Part 2,7.4,2001,49.68
+Destiny 4 Part 3,8.3,2007,7.76
+Destiny 4 Part 4,5.3,2010,6.57
+Destiny 5,7.7,2004,100.0
+Destiny 5 Part 1,8.5,2020,2.93
+Destiny Code,8.5,2006,9.17
+Destiny Game,5.2,2020,11.72
+Destiny Protocol,7.7,2000,4.21
+Destiny Signal,8.3,2022,4.05
+Destiny Signal Part 1,5.4,2020,6.02
+Destiny Theory,7.2,1999,42.88
+Dragon 1,8.7,2019,7.1
+Dragon 2,7.8,2018,100.0
+Dragon 2 Part 1,8.3,2020,26.63
+Dragon 2 Part 2,9.3,2020,100.0
+Dragon 3,8.3,2007,61.56
+Dragon 3 Part 1,8.3,2011,4.7
+Dragon 3 Part 2,7.4,2019,14.24
+Dragon 4,7.0,1996,7.4
+Dragon Day,7.7,2020,0.94
+Dragon Effect,4.4,2003,0.71
+Dragon Effect Part 1,7.9,1995,27.44
+Dragon Game,5.1,2003,2.94
+Dragon Game Part 1,9.0,2019,1.46
+Dragon Night,7.5,2023,24.57
+Dragon Project,8.7,2010,78.06
+Dragon Project Part 1,8.7,2007,8.69
+Dragon Project Part 2,9.1,1993,4.3
+Eclipse 1,8.7,2020,20.54
+Eclipse 2,4.3,2003,42.2
+Eclipse 3,7.6,2023,2.07
+Eclipse 3 Part 1,7.4,2004,2.1
+Eclipse 3 Part 2,9.6,2012,2.78
+Eclipse 4,5.1,2020,19.02
+Eclipse 5,5.4,1996,5.86
+Eclipse 5 Part 1,5.8,2008,17.03
+Eclipse 5 Part 2,6.3,2019,27.42
+Eclipse Day,4.2,2020,12.9
+Eclipse Day Part 1,6.2,2014,100.0
+Eclipse Day Part 2,7.5,2009,50.89
+Eclipse Game,5.1,2014,3.16
+Eclipse Project,7.9,2004,2.53
+Eclipse Project Part 1,4.8,2020,7.66
+Eclipse Project Part 2,7.4,2012,2.73
+Eclipse Protocol,5.7,2008,5.22
+Eclipse Protocol Part 1,8.1,2023,60.18
+Eclipse Signal,5.5,2022,100.0
+Eclipse Signal Part 1,6.0,2009,100.0
+Eclipse Theory,6.7,2006,23.45
+Eclipse Theory Part 1,8.7,2010,1.67
+Empire 1,8.0,1995,100.0
+Empire 1 Part 1,7.7,2001,52.92
+Empire 3,8.2,2019,95.17
+Empire 3 Part 1,7.6,1988,19.78
+Empire Code,9.0,2009,2.01
+Empire Day,7.4,2006,6.16
+Empire Day Part 1,8.9,2012,10.64
+Empire Day Part 2,5.8,2005,7.54
+Empire Effect,6.5,2009,76.47
+Empire Game,8.6,2005,1.1
+Empire Game Part 1,7.0,2021,0.26
+Empire Night,8.4,2019,9.46
+Empire Night Part 1,5.2,2021,25.79
+Empire Protocol,7.7,2013,13.49
+Empire Protocol Part 1,9.2,1990,4.9
+Empire Protocol Part 2,7.8,1998,3.57
+Empire Signal,6.7,2022,0.85
+Empire Signal Part 1,7.9,2019,9.24
+Fall of Destiny Legacy,6.0,2017,5.09
+Fall of Guardian Chronicles,7.0,2018,100.0
+Fall of Guardian Lost,6.7,2017,2.24
+Fall of Hunter Divided,7.8,2008,26.69
+Fall of Midnight Awakened,7.0,2008,55.3
+Fall of Mountain Forever,6.1,2017,1.06
+Fall of Mountain Origins,6.4,2010,23.72
+Fall of Ocean United,8.6,2004,5.03
+Fall of Paradise Lost,8.8,2024,12.67
+Fall of Phoenix,9.0,2003,30.31
+Fall of Phoenix Chronicles,6.1,2010,15.85
+Fall of Phoenix Chronicles Part 1,6.7,2020,65.55
+Fall of Phoenix Rises,7.0,2022,1.24
+Fall of Shadow Forever,9.1,2020,34.54
+Fall of Shadow Legacy,8.0,2006,11.82
+Fall of Shadow Origins,9.7,1997,1.75
+Fall of Shadow Reborn,5.2,2013,27.8
+Fall of Storm Legacy,7.7,2012,13.67
+Fall of Vengeance Awakened,7.0,2010,3.09
+Final City,7.8,2015,7.37
+Final City Part 1,5.8,1993,57.67
+Final City Part 2,9.0,2008,9.57
+Final Dawn,6.7,2023,17.96
+Final Dawn Part 1,8.4,2017,5.41
+Final Dawn Part 2,5.9,2014,2.15
+Final Destiny,6.4,2021,44.17
+Final Eclipse,8.2,2015,100.0
+Final Eclipse Part 1,8.7,2020,1.28
+Final Guardian,6.8,2013,4.39
+Final Guardian Part 1,7.3,2021,15.5
+Final Horizon,8.2,2009,19.97
+Final Legacy,7.4,2024,4.78
+Final Legacy Part 1,5.9,2007,16.68
+Final Midnight,8.8,2024,1.1
+Final Midnight Part 1,6.6,2008,7.55
+Final Mountain,8.3,2019,40.07
+Final Mountain Part 1,6.5,2022,22.95
+Final Ocean,5.2,2000,100.0
+Final Ocean Part 1,4.9,2012,21.45
+Final Paradise,9.1,2007,10.41
+Final Paradise Part 1,6.5,2000,0.64
+Final Phoenix,6.3,2016,21.39
+Final Phoenix Part 1,4.0,2024,2.45
+Final Phoenix Part 2,7.7,2011,0.86
+Final Redemption,5.0,2020,3.26
+Final Redemption Part 1,7.9,2017,68.34
+Final Shadow,6.5,2014,25.54
+Final Storm,8.6,2016,27.12
+Final Thunder,7.8,2010,100.0
+Final Thunder Part 1,7.7,2005,100.0
+Final Thunder Part 2,3.7,2009,9.58
+Final Universe,5.6,1995,17.54
+Final Universe Part 1,5.6,1991,5.71
+Final Vengeance,7.2,1999,5.35
+Final Vengeance Part 1,4.2,2007,24.75
+Final Vengeance Part 2,9.7,2019,3.69
+Final Vengeance Part 3,8.6,2015,22.05
+Final Warrior,8.9,2019,0.79
+Final Warrior Part 1,8.5,2009,8.89
+Final Warrior Part 2,8.9,2021,100.0
+Final Warrior Part 3,9.3,2023,24.8
+Final Warrior Part 4,8.2,2016,100.0
+First City,8.8,2020,25.31
+First City Part 1,8.5,2007,14.21
+First Dawn,6.7,2024,88.38
+First Destiny,7.1,2007,2.38
+First Dragon,8.5,2001,4.67
+First Eclipse,7.6,1998,3.43
+First Empire,9.4,1992,10.47
+First Guardian,7.4,2004,4.12
+First Guardian Part 1,7.6,2007,0.92
+First Horizon,8.1,2006,12.82
+First Kingdom,9.9,2023,7.5
+First Kingdom Part 1,6.1,2020,0.75
+First Midnight,7.3,1997,21.47
+First Midnight Part 1,7.9,2016,1.14
+First Mountain,9.8,2009,63.82
+First Mountain Part 1,6.9,2023,100.0
+First Ocean,7.1,1997,33.8
+First Paradise,6.1,1991,6.39
+First Paradise Part 1,8.2,2008,6.12
+First Paradise Part 2,5.7,2004,2.61
+First Paradise Part 3,6.7,2020,15.85
+First Paradise Part 4,8.4,2014,9.96
+First Paradise Part 5,5.2,2017,3.81
+First Paradise Part 6,7.8,2024,2.17
+First Phoenix,4.0,2013,55.21
+First Phoenix Part 1,7.5,1999,7.1
+First Storm,7.1,2019,41.74
+First Storm Part 1,6.1,2000,5.32
+First Thunder,6.4,2006,7.33
+First Thunder Part 1,6.2,2014,8.8
+First Universe,5.6,1995,39.27
+First Universe Part 1,9.0,1999,4.68
+First Valley,8.4,2008,55.64
+First Valley Part 1,8.4,1996,2.06
+First Vengeance,6.8,2022,27.5
+First Vengeance Part 1,7.4,2005,1.69
+First Vengeance Part 2,6.9,2019,0.48
+First Vengeance Part 3,8.5,1993,7.36
+First Vengeance Part 4,7.8,2001,32.68
+First Vengeance Part 5,7.9,2008,2.89
+First Warrior,8.8,2020,63.8
+First Warrior Part 1,7.7,2003,26.02
+Guardian 1,8.1,2015,0.64
+Guardian 2,9.8,2023,80.8
+Guardian 2 Part 1,8.1,1994,6.71
+Guardian 4,9.1,2022,16.45
+Guardian 4 Part 1,6.6,2015,100.0
+Guardian 5,4.6,2004,60.68
+Guardian Code,7.2,2012,10.75
+Guardian Day,7.7,2017,7.73
+Guardian Effect,8.6,1999,100.0
+Guardian Effect Part 1,6.6,2004,6.09
+Guardian Effect Part 2,6.1,1993,8.06
+Guardian Game,7.0,2012,100.0
+Guardian Night,7.2,2010,4.27
+Guardian Protocol,6.8,2017,5.4
+Guardian Protocol Part 1,3.8,2008,11.38
+Guardian Signal,4.9,2020,0.67
+Guardian Signal Part 1,3.3,2002,17.03
+Guardian Theory,7.9,2017,12.75
+Horizon 1,6.3,2020,100.0
+Horizon 2,8.8,2020,0.37
+Horizon 3,7.4,2023,8.82
+Horizon 3 Part 1,6.4,2021,2.96
+Horizon 4,7.7,2009,16.14
+Horizon 4 Part 1,8.7,2007,5.02
+Horizon 5,9.7,2006,3.35
+Horizon 5 Part 1,9.2,2024,1.93
+Horizon Day,7.8,2019,39.14
+Horizon Day Part 1,5.7,2018,9.11
+Horizon Day Part 2,8.3,2004,33.22
+Horizon Effect,9.4,2014,36.07
+Horizon Game,7.1,2016,8.92
+Horizon Night,8.3,2015,50.0
+Horizon Protocol,3.5,2023,39.23
+Horizon Signal,9.1,2015,3.29
+Horizon Signal Part 1,7.8,2016,1.89
+Horizon Theory,8.1,1997,2.19
+Horizon Theory Part 1,7.6,2003,11.1
+Hunter 1,9.5,2011,48.09
+Hunter 2,5.9,2024,28.26
+Hunter 2 Part 1,9.4,2023,15.59
+Hunter 2 Part 2,9.6,1995,5.75
+Hunter 4,7.8,1988,2.1
+Hunter 4 Part 1,8.3,2000,15.5
+Hunter Game,7.8,2022,2.3
+Hunter Project,8.5,2014,100.0
+Hunter Protocol,5.7,2011,2.48
+Hunter Protocol Part 1,6.9,2002,61.2
+Hunter Signal,5.5,2019,31.32
+Hunter Theory,8.7,1997,15.05
+In the Dragon Origins,7.3,2014,5.94
+In the Guardian Chronicles,5.8,1993,3.17
+In the Guardian Found,8.8,2020,12.02
+In the Horizon Awakened,7.4,2014,7.56
+In the Horizon Legacy,8.0,2002,46.27
+In the Horizon Rises,7.7,1995,0.29
+In the Kingdom Found,8.0,2024,100.0
+In the Kingdom Rises,8.9,2017,20.4
+In the Legacy Reborn,9.6,2002,1.98
+In the Mountain Forever,7.0,2015,100.0
+In the Paradise,8.4,2018,22.63
+In the Paradise Lost,8.3,2008,21.94
+In the Phoenix Forever,5.8,1993,8.71
+In the Redemption Origins,8.3,2014,10.38
+In the Thunder Divided,6.2,2024,1.24
+In the Universe Returns,8.4,1997,100.0
+In the Valley Eternal,3.5,1996,10.54
+In the Vengeance Reborn,7.6,2017,15.71
+Journey to City,8.7,2024,12.15
+Journey to Eclipse Divided,8.9,2000,87.89
+Journey to Horizon,8.9,2019,3.21
+Journey to Horizon Forever,7.0,2023,1.22
+Journey to Hunter Lost,7.8,1995,100.0
+Journey to Legacy,5.9,2010,5.62
+Journey to Legacy Eternal,6.3,2023,4.58
+Journey to Mountain,8.9,2004,24.71
+Journey to Paradise Rises,8.5,2007,10.01
+Journey to Redemption Forever,8.7,1999,5.97
+Journey to Redemption Found,6.4,2013,5.86
+Journey to Shadow,8.2,2008,100.0
+Journey to Storm Awakened,7.4,2001,2.49
+Journey to Storm Divided,5.6,2019,38.94
+Journey to Storm Divided Part 1,3.7,2016,10.64
+Journey to Storm Lost,8.4,2015,26.6
+Journey to Thunder Lost,7.8,2019,16.54
+Journey to Thunder Rises,8.1,2014,11.72
+Kingdom 1,8.5,2004,3.86
+Kingdom 2,9.8,2006,5.57
+Kingdom 2 Part 1,5.8,1993,5.33
+Kingdom 2 Part 2,7.0,2016,7.2
+Kingdom 3,5.8,2020,14.83
+Kingdom 3 Part 1,7.4,2018,51.99
+Kingdom 4,7.5,1990,100.0
+Kingdom 4 Part 1,8.5,2007,40.32
+Kingdom Code,8.6,2021,100.0
+Kingdom Code Part 1,8.8,2018,16.54
+Kingdom Code Part 2,7.6,2007,8.48
+Kingdom Code Part 3,7.8,2024,6.51
+Kingdom Effect,7.9,2008,5.35
+Kingdom Effect Part 1,8.4,1995,75.69
+Kingdom Effect Part 2,7.8,2007,9.23
+Kingdom Effect Part 3,7.1,2019,8.01
+Kingdom Effect Part 4,6.8,2020,69.55
+Kingdom Game,9.1,2023,72.35
+Kingdom Project,9.2,2009,1.31
+Kingdom Project Part 1,9.5,2024,100.0
+Kingdom Protocol,8.1,2012,15.31
+Kingdom Protocol Part 1,8.2,2020,4.6
+Kingdom Signal,6.1,2008,4.04
+Kingdom Signal Part 1,9.6,2011,36.56
+Kingdom Theory,9.2,2003,9.74
+Last City,8.3,2017,100.0
+Last City Part 1,5.6,1989,55.81
+Last Destiny,7.5,2022,100.0
+Last Destiny Part 1,7.6,1996,5.34
+Last Destiny Part 2,9.4,2021,15.14
+Last Dragon,6.8,2019,6.01
+Last Eclipse,6.8,2023,5.11
+Last Eclipse Part 1,9.4,2011,9.84
+Last Eclipse Part 2,9.8,1994,7.57
+Last Guardian,8.1,1996,15.73
+Last Guardian Part 1,8.1,2021,1.69
+Last Guardian Part 2,6.4,2009,2.5
+Last Horizon,7.0,2018,24.3
+Last Horizon Part 1,6.1,2019,12.64
+Last Hunter,9.2,2015,19.73
+Last Hunter Part 1,7.0,2024,58.12
+Last Kingdom,7.4,2017,3.08
+Last Kingdom Part 1,4.5,2018,1.33
+Last Midnight,8.8,2021,2.36
+Last Midnight Part 1,7.6,2011,1.04
+Last Mountain,4.5,2015,14.28
+Last Mountain Part 1,4.7,1993,5.4
+Last Mountain Part 2,8.0,1999,58.85
+Last Mountain Part 3,8.2,1996,32.92
+Last Ocean,8.6,1997,87.55
+Last Paradise,6.9,2022,24.59
+Last Paradise Part 1,8.0,2013,0.34
+Last Phoenix,4.7,2020,6.67
+Last Shadow,7.6,1996,1.47
+Last Shadow Part 1,9.0,2001,14.38
+Last Shadow Part 2,7.2,2010,6.73
+Last Storm,4.1,2013,100.0
+Last Storm Part 1,7.7,2006,19.78
+Last Thunder,5.7,2010,2.42
+Last Universe,4.6,2013,3.33
+Last Universe Part 1,5.6,2011,38.14
+Last Universe Part 2,6.4,2010,10.82
+Last Valley,8.9,1995,8.81
+Last Vengeance,7.2,2010,3.49
+Last Warrior,8.9,2001,100.0
+Last Warrior Part 1,6.0,2013,4.04
+Legacy 2,7.8,2011,40.9
+Legacy 3,9.1,2001,49.48
+Legacy 5,5.6,2008,8.81
+Legacy Code,8.5,2015,2.3
+Legacy Code Part 1,9.3,2010,39.45
+Legacy Code Part 2,8.8,2014,21.33
+Legacy Effect,4.1,2001,5.32
+Legacy Game,5.2,2021,3.85
+Legacy Night,7.5,2020,40.05
+Legacy Night Part 1,8.9,2019,8.65
+Legacy Night Part 2,8.9,2016,3.34
+Legacy Night Part 3,9.2,2016,100.0
+Legacy Protocol,5.4,2018,30.47
+Legacy Signal,8.1,2010,3.58
+Legacy Signal Part 1,7.4,2004,1.1
+Legacy Theory,9.1,2014,47.92
+Legacy Theory Part 1,9.6,2024,84.32
+Legacy Theory Part 2,5.8,2014,100.0
+Legacy Theory Part 3,8.9,1998,9.64
+Legend of Dawn Awakened,9.6,2009,3.83
+Legend of Dawn Origins,7.5,2023,100.0
+Legend of Dragon Found,7.8,2011,10.5
+Legend of Empire United,8.8,2013,37.17
+Legend of Horizon,5.1,2005,1.68
+Legend of Horizon Lost,7.5,1999,100.0
+Legend of Hunter Rises,6.5,2001,0.4
+Legend of Kingdom Chronicles,7.6,1989,9.65
+Legend of Midnight Chronicles,7.2,2015,7.07
+Legend of Midnight Forever,7.6,2006,58.68
+Legend of Mountain Chronicles,8.1,1999,76.31
+Legend of Mountain Lost,8.8,2019,0.61
+Legend of Ocean Eternal,4.6,2020,57.14
+Legend of Ocean Lost,6.8,2015,32.37
+Legend of Phoenix Forever,5.0,2009,1.9
+Legend of Phoenix Legacy,7.0,2014,1.25
+Legend of Redemption,8.2,2012,13.76
+Legend of Redemption Divided,8.1,1989,36.56
+Legend of Redemption Lost,8.6,1994,6.12
+Legend of Shadow Returns,4.4,2014,44.93
+Legend of Storm Awakened,6.8,2001,4.42
+Legend of Thunder Awakened,5.1,2001,2.37
+Legend of Thunder Divided,5.6,2004,100.0
+Legend of Thunder Reborn,6.2,2008,20.95
+Legend of Thunder Reborn Part 1,8.1,1995,1.04
+Legend of Valley Forever,6.3,2016,100.0
+Legend of Warrior Awakened,6.7,2024,34.62
+Midnight 1,5.5,2023,30.06
+Midnight 1 Part 1,8.7,1988,0.16
+Midnight 1 Part 2,8.9,2024,16.18
+Midnight 1 Part 3,8.4,1992,13.13
+Midnight 1 Part 4,6.9,2024,43.76
+Midnight 3,7.0,2009,52.86
+Midnight 3 Part 1,9.1,2005,0.46
+Midnight 4,5.2,2023,13.6
+Midnight 4 Part 1,4.2,2018,55.26
+Midnight 5,7.0,2004,7.46
+Midnight Code,8.6,2020,100.0
+Midnight Code Part 1,5.0,1997,7.51
+Midnight Game,9.4,2015,8.74
+Midnight Game Part 1,8.3,2017,0.53
+Midnight Night,7.5,2016,8.95
+Midnight Project,7.2,2002,37.77
+Midnight Project Part 1,8.1,2019,1.66
+Midnight Theory,9.4,2011,100.0
+Mission City Rises,6.7,2021,2.03
+Mission Dragon United,7.6,2021,63.82
+Mission Horizon Chronicles,6.6,2014,5.24
+Mission Horizon Rises,7.5,2006,19.0
+Mission Hunter Found,7.7,2019,10.88
+Mission Mountain Eternal,5.9,2018,100.0
+Mission Paradise Lost,6.8,2015,2.35
+Mission Phoenix Found,6.4,2004,63.96
+Mission Shadow Forever,6.6,2009,27.53
+Mission Shadow Reborn,7.1,2018,27.33
+Mission Storm Chronicles,9.3,2018,22.09
+Mission Storm Origins,8.8,2022,10.35
+Mission Universe,9.8,2024,100.0
+Mission Valley Reborn,6.4,2017,46.14
+Mission Vengeance Awakened,4.4,2011,45.14
+Mission Warrior Divided,8.0,1987,3.28
+Mountain 1,7.7,2017,5.76
+Mountain 2,9.5,1986,4.99
+Mountain 2 Part 1,7.2,2009,0.85
+Mountain 4,8.3,2000,11.43
+Mountain 5,8.5,1990,1.08
+Mountain Day,8.3,2012,2.31
+Mountain Effect,7.4,2018,7.73
+Mountain Effect Part 1,7.2,1998,6.33
+Mountain Effect Part 2,8.9,2023,1.24
+Mountain Effect Part 3,7.2,2024,3.07
+Mountain Game,8.6,2004,100.0
+Mountain Game Part 1,7.7,2018,2.93
+Mountain Night,6.7,2017,40.42
+Mountain Night Part 1,6.5,2008,7.55
+Mountain Night Part 2,8.6,2021,11.13
+Mountain Project,9.6,2017,40.02
+Mountain Protocol,7.3,2022,32.57
+Mountain Signal,8.1,2020,37.87
+Mountain Signal Part 1,8.4,1989,19.92
+Mountain Theory,4.5,2000,7.61
+New City,8.9,2020,12.64
+New Dawn,9.4,2023,5.04
+New Dawn Part 1,5.0,2022,46.5
+New Dawn Part 2,8.5,2004,34.57
+New Dawn Part 3,7.3,2003,4.85
+New Dragon,7.8,2013,100.0
+New Eclipse,8.6,2022,3.5
+New Eclipse Part 1,7.2,2015,2.78
+New Empire,6.7,1999,4.93
+New Hunter,8.0,2013,41.67
+New Kingdom,6.0,2021,3.24
+New Legacy,9.2,2008,51.06
+New Midnight,6.4,2002,7.45
+New Ocean,8.3,1998,20.05
+New Ocean Part 1,8.5,1998,8.2
+New Paradise,8.9,1998,9.1
+New Paradise Part 1,9.7,2018,13.08
+New Phoenix,8.5,1998,7.76
+New Phoenix Part 1,9.7,2015,2.83
+New Phoenix Part 2,8.2,2004,21.58
+New Phoenix Part 3,9.0,2008,66.15
+New Phoenix Part 4,6.3,2001,63.06
+New Redemption,9.6,2000,13.67
+New Shadow,7.0,2022,1.14
+New Thunder,8.3,2007,23.16
+New Thunder Part 1,7.7,2005,7.02
+New Valley,9.5,2006,32.82
+New Vengeance,8.0,2010,40.69
+New Warrior,5.3,2004,50.76
+New Warrior Part 1,9.1,2010,0.17
+New Warrior Part 2,9.0,2015,2.16
+New Warrior Part 3,8.6,2016,41.4
+New Warrior Part 4,6.3,2021,6.56
+Ocean 1,9.1,1998,6.97
+Ocean 2,7.4,2019,4.29
+Ocean 3,9.4,1993,20.24
+Ocean 3 Part 1,9.6,2017,100.0
+Ocean 3 Part 2,6.1,1999,5.36
+Ocean 3 Part 3,8.5,2014,70.82
+Ocean 4,9.8,2018,100.0
+Ocean 4 Part 1,4.8,1995,29.27
+Ocean 5,8.0,2022,11.06
+Ocean 5 Part 1,8.1,2018,1.46
+Ocean 5 Part 2,4.4,2019,5.09
+Ocean Code,7.2,2015,7.67
+Ocean Code Part 1,8.2,2010,100.0
+Ocean Day,5.2,2023,4.03
+Ocean Effect,9.4,1997,2.32
+Ocean Effect Part 1,6.6,2024,11.1
+Ocean Night,6.9,2018,30.27
+Ocean Night Part 1,6.9,2016,64.55
+Ocean Night Part 2,8.2,2024,7.67
+Ocean Night Part 3,4.6,2003,33.32
+Ocean Project,7.9,2012,37.12
+Ocean Project Part 1,8.4,1997,8.45
+Ocean Protocol,9.2,2014,33.31
+Ocean Signal,8.4,2018,11.83
+Ocean Signal Part 1,8.1,2017,4.92
+Ocean Signal Part 2,6.5,2010,15.05
+Ocean Signal Part 3,7.9,2024,44.42
+Ocean Signal Part 4,8.5,2014,100.0
+Ocean Signal Part 5,8.8,2007,59.58
+Ocean Signal Part 6,6.9,1996,19.57
+Ocean Theory,9.2,2022,25.9
+Ocean Theory Part 1,8.2,2008,43.89
+Operation City Awakened,8.1,2011,4.36
+Operation Dawn Chronicles,7.3,2003,27.78
+Operation Dawn Found,7.1,2023,14.82
+Operation Destiny Awakened,8.7,1997,15.18
+Operation Dragon Reborn,7.3,2009,100.0
+Operation Eclipse Awakened,6.8,2006,12.12
+Operation Eclipse Legacy,8.4,2014,100.0
+Operation Guardian Found,8.3,2017,42.02
+Operation Horizon Eternal,7.4,2001,100.0
+Operation Legacy Forever,5.7,2001,19.81
+Operation Phoenix Chronicles,6.3,2014,3.23
+Operation Thunder Reborn,7.3,2008,43.74
+Operation Warrior Divided,8.0,2014,23.81
+Operation Warrior Reborn,7.9,2021,9.24
+Operation Warrior Returns,8.3,2019,24.2
+Paradise 1,6.9,2019,100.0
+Paradise 2,6.3,2006,25.22
+Paradise 2 Part 1,6.7,2015,54.28
+Paradise 2 Part 2,7.5,2023,25.46
+Paradise 2 Part 3,6.1,1986,2.03
+Paradise 3,8.6,2010,9.71
+Paradise 3 Part 1,7.8,2017,6.62
+Paradise 4,8.8,2016,3.78
+Paradise 5,4.8,2024,0.77
+Paradise 5 Part 1,9.3,1991,1.96
+Paradise Effect,7.6,2017,1.6
+Paradise Effect Part 1,5.6,2020,9.16
+Paradise Effect Part 2,9.1,2017,8.98
+Paradise Project,6.8,2020,4.87
+Paradise Project Part 1,4.7,2022,3.52
+Paradise Protocol,6.2,2014,10.48
+Paradise Signal,8.7,2021,70.01
+Paradise Theory,8.6,1996,4.62
+Paradise Theory Part 1,7.7,2006,18.06
+Phoenix 1,5.8,2022,100.0
+Phoenix 1 Part 1,8.5,2001,1.15
+Phoenix 2,5.4,2023,7.36
+Phoenix 2 Part 1,9.4,2007,11.19
+Phoenix 2 Part 2,8.0,2020,14.19
+Phoenix 2 Part 3,8.1,2011,11.88
+Phoenix 3,8.6,2013,23.96
+Phoenix 4,8.4,2022,18.74
+Phoenix 4 Part 1,6.4,1993,3.58
+Phoenix 4 Part 2,6.9,2006,16.77
+Phoenix Day,9.2,2013,4.41
+Phoenix Day Part 1,7.4,2006,89.42
+Phoenix Project,8.7,2022,59.02
+Phoenix Protocol,8.8,2003,65.92
+Phoenix Protocol Part 1,7.7,2020,3.58
+Phoenix Theory,8.9,2015,4.97
+Phoenix Theory Part 1,9.9,2006,12.19
+Redemption 1,4.2,2016,1.46
+Redemption 2,7.9,2021,5.8
+Redemption 2 Part 1,7.3,2020,23.43
+Redemption 2 Part 2,9.2,2011,78.21
+Redemption 2 Part 3,6.7,2003,11.78
+Redemption 2 Part 4,7.2,2016,0.67
+Redemption 3,6.5,2007,1.5
+Redemption 4,5.5,2020,7.04
+Redemption 4 Part 1,9.4,2021,2.15
+Redemption 4 Part 2,8.2,1990,74.27
+Redemption 5,7.8,2007,2.01
+Redemption 5 Part 1,9.0,2016,15.3
+Redemption 5 Part 2,8.8,2014,6.24
+Redemption Code,5.1,2021,20.31
+Redemption Day,8.6,2015,0.1
+Redemption Day Part 1,6.4,2022,1.57
+Redemption Effect,7.4,2019,14.19
+Redemption Effect Part 1,8.9,2016,16.73
+Redemption Game,6.8,2009,2.23
+Redemption Game Part 1,6.2,2023,2.58
+Redemption Night,4.7,1992,61.14
+Redemption Night Part 1,7.9,1999,100.0
+Redemption Project,9.2,2000,100.0
+Redemption Protocol,8.0,2022,3.69
+Redemption Signal,9.4,2017,100.0
+Redemption Signal Part 1,8.9,2016,62.11
+Redemption Theory,4.1,2007,8.67
+Return to Dawn Chronicles,6.8,2009,26.65
+Return to Dawn Origins,8.9,2020,97.16
+Return to Destiny Awakened,7.5,2009,13.32
+Return to Destiny Chronicles,7.3,2010,39.26
+Return to Eclipse Legacy,8.5,2008,19.81
+Return to Eclipse Lost,5.8,2011,3.67
+Return to Empire,8.2,2021,8.57
+Return to Empire United,7.2,1989,4.59
+Return to Horizon Reborn,9.1,2012,58.76
+Return to Hunter United,7.4,2009,30.3
+Return to Legacy Legacy,8.4,2023,59.17
+Return to Mountain Legacy,7.8,2004,0.99
+Return to Ocean Awakened,6.2,2013,2.77
+Return to Ocean Legacy,7.0,2024,9.61
+Return to Ocean United,3.8,2003,71.46
+Return to Paradise,9.4,2009,1.0
+Return to Paradise Eternal,5.0,2022,60.21
+Return to Phoenix Origins,4.6,2019,2.54
+Return to Redemption Found,7.8,1989,12.64
+Return to Shadow Origins,7.6,1999,99.9
+Return to Shadow Reborn,7.4,2023,2.77
+Return to Storm Origins,6.8,1991,12.24
+Return to Storm Reborn,6.2,1996,100.0
+Return to Thunder Legacy,9.6,2021,11.57
+Return to Thunder Lost,7.5,2023,8.28
+Return to Universe Origins,6.6,2014,5.61
+Return to Valley Eternal,8.1,2004,62.88
+Rise of City Chronicles,7.4,2020,1.75
+Rise of City Forever,7.7,2021,5.94
+Rise of Dawn Awakened,5.9,2011,0.55
+Rise of Dawn Returns,8.0,2021,72.5
+Rise of Destiny,6.4,2016,1.01
+Rise of Destiny Chronicles,8.0,1999,15.01
+Rise of Eclipse Forever,6.0,1989,4.42
+Rise of Empire Divided,7.6,1994,1.19
+Rise of Empire Lost,9.3,2013,100.0
+Rise of Guardian Lost,9.1,2011,41.81
+Rise of Horizon Origins,7.1,2018,1.6
+Rise of Hunter Found,9.1,1993,12.12
+Rise of Kingdom Chronicles,8.2,2022,5.33
+Rise of Ocean Lost,7.3,2020,4.92
+Rise of Paradise Eternal,7.0,2014,21.85
+Rise of Paradise Lost,8.8,2019,17.06
+Rise of Paradise Reborn,7.6,2021,18.82
+Rise of Storm Lost,8.3,2016,5.87
+Rise of Universe Found,6.1,2003,1.08
+Rise of Warrior,9.6,1996,8.1
+Rise of Warrior Awakened,8.3,2010,12.35
+Rise of Warrior Chronicles,6.4,2022,17.51
+Rise of Warrior United,8.6,2012,31.07
+Secret of City Legacy,8.9,2009,6.18
+Secret of Destiny Reborn,9.0,2016,16.8
+Secret of Empire Rises,8.1,2009,8.76
+Secret of Horizon Lost,5.6,2021,4.44
+Secret of Hunter Lost,5.0,2020,7.77
+Secret of Legacy Divided,8.4,2024,29.06
+Secret of Midnight Forever,4.4,2013,100.0
+Secret of Phoenix,9.4,2006,67.74
+Secret of Phoenix United,5.9,2001,1.48
+Secret of Shadow Reborn,6.5,1995,12.06
+Secret of Storm,4.2,2004,13.31
+Secret of Storm Found,8.7,2019,90.17
+Secret of Thunder Found,4.1,2016,17.0
+Secret of Thunder Origins,9.2,2008,4.88
+Secret of Valley Forever,4.6,2003,9.13
+Secret of Vengeance Eternal,6.1,2005,29.85
+Secret of Warrior Awakened,2.9,2022,10.55
+Shadow 2,9.1,2008,12.52
+Shadow 2 Part 1,4.9,1988,11.97
+Shadow 3,7.9,2004,21.99
+Shadow 5,7.4,2016,36.52
+Shadow Day,6.9,2001,10.11
+Shadow Effect,7.8,1998,3.99
+Shadow Effect Part 1,6.8,2009,28.87
+Shadow Game,6.5,2022,28.24
+Shadow Night,5.5,2011,0.33
+Shadow Night Part 1,8.7,1999,17.56
+Shadow Project,8.2,2024,2.65
+Shadow Project Part 1,4.0,2014,0.63
+Shadow Project Part 2,7.8,2021,5.94
+Shadow Project Part 3,8.3,1996,33.2
+Shadow Protocol,7.6,2011,2.33
+Shadow Signal,8.5,2012,13.47
+Shadow Signal Part 1,7.9,1996,13.01
+Shadows of Dragon Awakened,4.7,2018,8.99
+Shadows of Dragon Eternal,8.7,2003,11.65
+Shadows of Dragon Rises,7.5,2003,26.91
+Shadows of Empire Forever,8.6,2021,100.0
+Shadows of Empire Origins,8.7,2018,32.02
+Shadows of Guardian Rises,6.1,2023,3.05
+Shadows of Horizon Chronicles,7.9,1991,7.2
+Shadows of Horizon United,6.2,2004,8.68
+Shadows of Legacy Divided,7.6,2022,13.01
+Shadows of Midnight Eternal,7.7,2018,48.09
+Shadows of Midnight Returns,7.4,2010,41.28
+Shadows of Mountain Divided,8.0,2015,100.0
+Shadows of Phoenix Origins,8.3,2009,36.98
+Shadows of Redemption Lost,7.6,2005,53.13
+Shadows of Shadow Awakened,8.6,2013,59.96
+Shadows of Shadow Divided,9.4,2023,100.0
+Shadows of Storm Lost,9.1,2024,22.78
+Shadows of Storm Origins,7.2,2019,64.27
+Shadows of Universe Found,6.6,2005,8.23
+Shadows of Vengeance United,8.5,2019,3.68
+Storm 1,8.9,2014,22.88
+Storm 2,8.3,2004,1.19
+Storm 2 Part 1,8.9,2024,0.15
+Storm 3,5.5,2018,11.83
+Storm 4,5.4,2019,71.8
+Storm 4 Part 1,7.6,2013,4.68
+Storm 5,4.2,1994,23.62
+Storm 5 Part 1,8.9,2024,4.87
+Storm 5 Part 2,9.5,2019,31.34
+Storm 5 Part 3,5.3,2020,2.89
+Storm Code,9.1,2024,0.44
+Storm Code Part 1,8.9,2011,8.9
+Storm Day,8.8,2011,17.42
+Storm Day Part 1,7.4,2007,51.79
+Storm Effect,7.7,2014,39.16
+Storm Effect Part 1,8.6,2000,7.59
+Storm Effect Part 2,8.7,2022,53.57
+Storm Effect Part 3,8.9,2022,23.34
+Storm Game,7.1,2023,25.44
+Storm Project,5.6,2015,90.98
+Storm Project Part 1,5.8,2003,34.7
+Storm Protocol,9.0,2010,7.51
+Storm Protocol Part 1,7.0,2018,8.74
+Storm Protocol Part 2,8.0,2003,76.15
+Storm Protocol Part 3,7.8,2001,2.03
+Storm Signal,5.9,2012,26.38
+Storm Signal Part 1,5.4,1994,0.92
+The City Forever,6.6,2018,72.43
+The Dawn Divided,9.0,2005,62.11
+The Empire Eternal,7.4,2016,18.51
+The Empire Reborn,7.4,1995,13.06
+The Empire United,6.9,2007,1.39
+The Guardian Chronicles,8.4,2023,3.85
+The Horizon Forever,9.7,2015,36.88
+The Midnight Eternal,7.0,2005,16.64
+The Midnight Forever,7.7,2019,19.18
+The Ocean Found,8.4,2000,3.12
+The Paradise Rises,8.2,2011,83.97
+The Shadow Eternal,6.0,2007,11.84
+The Shadow Forever,9.1,2023,8.7
+The Shadow Lost,9.2,2014,1.18
+The Shadow Rises,6.5,2012,45.46
+The Storm Forever,7.5,2005,11.94
+The Universe Found,7.2,2001,7.35
+The Valley Chronicles,4.9,2018,100.0
+The Valley Divided,4.3,2011,3.65
+Thunder 1,6.7,2024,11.24
+Thunder 1 Part 1,8.0,2007,4.84
+Thunder 2,8.3,2021,42.1
+Thunder 2 Part 1,8.6,2009,7.44
+Thunder 2 Part 2,8.8,2024,20.89
+Thunder 3,7.9,2018,17.34
+Thunder 5,9.4,2024,9.83
+Thunder Day,4.7,2024,1.57
+Thunder Day Part 1,7.5,2020,97.6
+Thunder Effect,8.2,2001,16.68
+Thunder Game,6.0,1999,54.23
+Thunder Night,7.1,2008,32.61
+Thunder Night Part 1,6.0,2014,28.2
+Thunder Project,5.6,1996,8.57
+Thunder Protocol,8.9,2016,4.34
+Thunder Protocol Part 1,7.9,2021,5.87
+Thunder Protocol Part 2,8.2,2012,1.17
+Thunder Theory,8.2,2019,7.86
+Thunder Theory Part 1,7.5,2009,3.56
+Universe 1,6.8,2001,3.25
+Universe 1 Part 1,8.5,2012,100.0
+Universe 1 Part 2,5.2,2015,54.6
+Universe 1 Part 3,8.3,2019,4.97
+Universe 2,7.3,1997,5.17
+Universe 2 Part 1,7.5,2017,3.96
+Universe 3,4.2,2011,84.43
+Universe 3 Part 1,9.1,2008,19.82
+Universe 4,7.7,2022,26.01
+Universe 4 Part 1,8.5,2009,22.98
+Universe 5,4.3,2017,22.21
+Universe 5 Part 1,8.7,2018,1.7
+Universe 5 Part 2,9.5,2022,0.17
+Universe Code,9.2,1996,100.0
+Universe Code Part 1,6.9,2019,66.72
+Universe Code Part 2,5.8,2022,48.74
+Universe Effect,6.6,2019,6.4
+Universe Game,7.5,2023,3.75
+Universe Game Part 1,7.9,1997,2.91
+Universe Project,9.0,2003,11.8
+Universe Signal,9.2,1995,8.31
+Universe Signal Part 1,8.8,2001,6.62
+Universe Theory,5.5,2019,2.42
+Valley 2,5.3,2010,0.89
+Valley 2 Part 1,7.8,2023,89.03
+Valley 2 Part 2,9.3,2024,3.95
+Valley 3,8.1,2015,2.34
+Valley 4,7.6,2017,12.96
+Valley 4 Part 1,7.8,2007,47.02
+Valley 4 Part 2,8.7,2020,54.73
+Valley 5,6.5,2012,5.73
+Valley 5 Part 1,6.8,2011,100.0
+Valley Code,8.4,2011,2.7
+Valley Day,8.9,2015,20.88
+Valley Day Part 1,7.6,2006,17.47
+Valley Day Part 2,4.3,2021,4.47
+Valley Effect,6.8,2020,16.35
+Valley Effect Part 1,9.4,1987,0.78
+Valley Effect Part 2,7.6,2021,22.46
+Valley Effect Part 3,8.2,2022,100.0
+Valley Project,8.9,2022,6.59
+Valley Project Part 1,8.2,2015,15.27
+Valley Project Part 2,6.2,1988,68.98
+Valley Signal,8.0,2018,20.04
+Valley Theory,8.4,2013,51.24
+Valley Theory Part 1,5.6,2020,0.68
+Vengeance 1,8.1,2007,5.55
+Vengeance 4,7.0,2016,2.52
+Vengeance 5,5.5,2002,3.46
+Vengeance 5 Part 1,8.2,2016,37.97
+Vengeance Code,9.0,2009,15.11
+Vengeance Day,9.3,2018,24.52
+Vengeance Day Part 1,8.3,1999,33.75
+Vengeance Effect,5.2,1999,34.65
+Vengeance Effect Part 1,6.7,2016,3.33
+Vengeance Effect Part 2,9.0,2021,100.0
+Vengeance Effect Part 3,5.5,2006,100.0
+Vengeance Game,5.2,1991,12.57
+Vengeance Night,8.9,2009,7.08
+Vengeance Night Part 1,8.1,2010,0.63
+Vengeance Night Part 2,6.2,2011,1.02
+Vengeance Night Part 3,8.0,2003,2.07
+Vengeance Project,5.7,2017,4.16
+Vengeance Project Part 1,5.2,1991,7.45
+Vengeance Protocol,5.5,2017,4.6
+Vengeance Protocol Part 1,6.4,2023,13.63
+Vengeance Signal,7.9,2015,0.55
+Vengeance Signal Part 1,5.2,2009,69.11
+Vengeance Signal Part 2,9.6,2015,5.68
+Vengeance Theory,8.5,2001,3.11
+Vengeance Theory Part 1,6.9,2024,4.16
+Vengeance Theory Part 2,9.0,2013,4.73
+Vengeance Theory Part 3,6.3,2017,9.58
+Warrior 1,9.8,2000,68.74
+Warrior 1 Part 1,9.0,2020,3.48
+Warrior 1 Part 2,5.0,1994,2.3
+Warrior 2,7.5,2012,2.68
+Warrior 2 Part 1,8.5,2018,4.57
+Warrior 3,8.0,1992,13.85
+Warrior 3 Part 1,6.3,2008,4.88
+Warrior 4,9.6,2003,2.89
+Warrior 5,7.8,2011,16.13
+Warrior 5 Part 1,6.7,1998,1.87
+Warrior Code,7.0,2011,32.46
+Warrior Effect,6.5,2019,95.95
+Warrior Effect Part 1,8.0,2013,10.1
+Warrior Game,5.8,2024,0.25
+Warrior Game Part 1,4.8,1996,54.34
+Warrior Project,8.1,2005,4.6
+Warrior Project Part 1,7.0,2016,100.0
+Warrior Protocol,8.0,2018,3.05
+Warrior Signal,9.6,2022,23.08
